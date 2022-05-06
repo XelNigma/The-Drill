@@ -1,0 +1,1068 @@
+Mono path[0] = 'F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'F:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   30.0.15.1259
+Begin MonoManager ReloadAssembly
+- Completed reload, in  2.269 seconds
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 0.911600 ms
+RimWorld 1.3.3326 rev562
+Created WorkshopItem for 2195729899 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Created WorkshopItem for 932008009 but there is no folder for it. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod MSE2 - Simple Modules dependency (MSE2.Core) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod DocWorld <packageId> (drzhivago.docworld_copy) is not in valid format. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod [Forge] Targeting Computer <packageId> (Forge.TargetingComputer_copy) is not in valid format. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020374F9CDA0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020373312540.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020374E75A60.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020374E8B670.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203753153C0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002034D309830.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037535A410.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037536EE30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375390A40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375399250.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020374E9C880.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375411010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375413620.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002034D0C8B10.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375418630.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375449C50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002034D30F970.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375463C60.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375467470.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037548F490.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203753ED7A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203754A84B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203754BA0D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203754BB6E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203754BCCF0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203754CB100.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203754DC320.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203755E3180.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203755E5D90.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203755F15B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203755F67C0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203756185E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037565C600.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375749E40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375755C50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203757B5010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203757F5C30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002034D0B4AC0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203757FF440.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375807A50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203758F0C80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375920C90.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203759CB010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203759CFA20.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203759D3630.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203759D8640.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037331EDE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203759DD450.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375AA8E80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375AC70B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375ACF6C0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375AD72E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375B172D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375BDE6F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375CB5F30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375D0E940.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375D1D150.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037666FAB0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037675A0D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375D2ED70.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375D34F90.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037675C6E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376767AF0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203767829B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376793910.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020375D3B3B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376794B20.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376799930.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037679DF40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002034D0D8B50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203767A5350.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203767A8F60.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203767AB570.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203767B6990.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037677D990.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203767BA7A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203767E0DC0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203767F51E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037684E010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376856E50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376913080.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376918C90.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203769562C0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203769632D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037696B4F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037379C0A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376977D10.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037697B330.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376980540.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376987350.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002034D0BCAE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376989560.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376992B70.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376A5C1A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376A61FB0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376B429E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376B479F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376C40A30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376C45240.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376C7DC80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376C7FA90.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376C80CA0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002034D0D4B40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037682A330.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376CA1CC0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376CE2020.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376CE5C30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376DB3A50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376DBA460.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376DBCE70.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376DBE080.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376DEE090.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376DFF4A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376E27AC0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376E4A6F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376E4D700.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376848420.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376E67B20.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376E6CB30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037684A430.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376E75B40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002034D0DCB60.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376E77F50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376F0C010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376F0F420.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203767851C0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376F2CA50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376F4C890.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020376F62AA0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203770334D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377090F10.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037709D920.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203770A5130.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203770A8D40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037379D8B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203770CAB60.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203770D8F90.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203771063B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377108DC0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377111DD0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377115FE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037711BDF0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203771E7A10.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203772A7230.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203772BB460.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203772CF890.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203772DA4B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377390AD0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377392EE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037739BAF0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203773B0300.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203773C3D20.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203774D3CA0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203773CFF30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203773D5F50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203773E4760.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203775102D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037757E010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377589020.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037759AE40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037759CC50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203775C5060.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203775E6670.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203775E8280.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037760FEB0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203776DD0D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203776EEAE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203776F06F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203773E9B70.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377822010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377833C20.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377849010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377858230.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037785A040.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203778B2850.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000203778E7460.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377916090.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037791C8A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377951940.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377972560.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377A5FF80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037305DE50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377DE10C0.dll
+[5/5/2022 6:31:34 PM] [BetterLoading] Verifying all mods loaded properly...
+[BetterLoading] Read tip cache of 106 tips from config.
+[BetterLoading] Injecting into main UI.
+[BetterLoading] Injected into main UI.
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037810E6B0.dll
+[VanillaFixHaulAfterSlaughter 0.1.0] Mod Loaded.
+[HugsLib] version 9.0.1
+[HugsLib] early-initializing AllowTool
+:: Outpost 21 Toolbox :: 2.5.8150 ::
+Fluffy Breakdowns :: Initialized
+[ForceRewardsDetails] applied.
+[Interaction Bubbles v1.8] Initialized
+[Map Preview] Applying compatibility patches for Performance Optimizer.
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+Rimatomics 1.7.2473
+DubsPaintShop 1.1.573
+Dubs Mint Minimap 1.3.787
+DubsMintMenus v1.3.995
+DubsBreakMod 1.0.809
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037C012230.dll
+[Vanilla Furniture Expanded - Architect] Activating Replace Stuff compatibility patch
+[VanillaAchievementsExpanded] version 1.3.7862
+:: Subpersona Shells :: 1.0.0 ::
+[CM_Semi_Random_Research] - patching to conditionally hide normal start research button.
+[Yayo's Combat Warcaskets] - Found method to patch
+[VanillaFix_MortarShellLoading 0.1.0] Mod Loaded.
+[Visible Raid Points] Loaded.
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037C0C5AE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020377E92040.dll
+ROCKETMAN: config path C:\Users\XelNigma\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\rocketeer.0102.txt
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037DF74010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002037C0DE520.dll
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Proton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Soyuz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+<color=orange>ROCKETMAN:</color> Version 0.6.3.2196
+SOYUZ: Created _transformationCache
+[BetterLoading] Finished stage Initializing Mods at 6:31:56 PM.
+[BetterLoading] HugsLib detected, adding HugsLib support.
+[BetterLoading:HugsLib Compat] Resolved required HugsLib types as follows: Controller: HugsLib.HugsLibController / Mod Identifier (Property): ModIdentifier
+[BetterLoading:HugsLib Compat] Successfully blind-patched HugsLib.
+[BetterLoading] Starting stage Reading Mod Content Files.
+[BetterLoading] Finished stage Reading Mod Content Files at 6:32:00 PM.
+[BetterLoading] Starting stage Injecting Mod XML.
+[BetterLoading] [Enhanced XML Load] Loaded 2262 loadable assets.
+[BetterLoading] Finished stage Injecting Mod XML at 6:32:01 PM.
+[BetterLoading] Starting stage Applying Patches.
+[BetterLoading] Finished stage Applying Patches at 6:32:01 PM.
+[BetterLoading] Starting stage Registering Defs.
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+[BetterLoading] Finished stage Registering Defs at 6:32:12 PM.
+[BetterLoading] Starting stage Constructing Defs.
+XML error: Duplicate XML node name designatorDropdown in this XML block: <TerrainDef ParentName="FloorBase"><defName>WoodPlankFloor</defName><label>wood floor</label><renderPrecedence>250</renderPrecedence><description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</description><texturePath>Terrain/Surfaces/WoodFloor</texturePath><burnedDef>BurnedWoodPlankFloor</burnedDef><color>(108,78,55)</color><statBases><WorkToBuild>85</WorkToBuild><Flammability>0.22</Flammability></statBases><costList><WoodLog>3</WoodLog></costList><constructEffect>ConstructWood</constructEffect><designationHotKey>Misc9</designationHotKey><designatorDropdown>Floor_Wood</designatorDropdown><designatorDropdown>VFEArch_WoodFloor</designatorDropdown></TerrainDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+[MVCF] [Reloading] Patching method Verse.Verb_LaunchProjectile.TryCastShot
+[MVCF] [Reloading] Patching method Verse.Verb.Available
+[MVCF] [Reloading] Patching method Verse.Verb_LaunchProjectile.get_Projectile
+[BetterLoading] Finished stage Constructing Defs at 6:32:26 PM.
+[BetterLoading] Starting stage Reloading Def Databases.
+[BetterLoading] Finished stage Reloading Def Databases at 6:32:33 PM.
+[BetterLoading] Tips should now be available. Showing...
+[BetterLoading] Starting stage Running Post Content Load Callbacks.
+[BetterLoading] Processing 16730 post-load tasks.
+d3d11: failed to create 2D texture id=13923 width=254 height=246 mips=9 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=13923 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=19918 width=25 height=31 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=19918 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=19964 width=62 height=50 mips=7 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=19964 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+Translation data for language English has 4 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+ROCKETMAN: RocketMan settings are stored in <color=red>C:\Users\XelNigma\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Mod_2479389928_RocketMod.xml</color>
+ROCKETMAN: Defs loaded!
+ROCKETMAN: Patched KeyBinder!
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Patching finished
+SOYUZ: Patching finished
+ROCKETMAN: XMLParser started
+ROCKETRULES: IgnoreMeRule for OskarPotocki.VFE.Mechanoid
+ROCKETRULES: IgnoreMeRule for Alaestor.MiscRobots.PlusPlus
+ROCKETRULES: IgnoreMeRule for Haplo.Miscellaneous.Robots
+ROCKETRULES: IgnoreMeRule for ChJees.Androids
+ROCKETRULES: IgnoreMeRule for automatic.autocleaner
+ROCKETRULES: IgnoreMeRule for neronix17.mechadroids
+ROCKETRULES: IgnoreMeRule for neronix17.outerrim.galaxies
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.drones
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
+[0.001752 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCentipede
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedLancer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedKnight
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedInquisitor
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedScyther
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedPikeman
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCarpenter
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvTermite
+ROCKETRULES: IgnoreMe add def by name: BI_Queen
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autocleaner
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autohauler
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autominer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Combat
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Riot
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Turret
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autostrider
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_AutoMedic
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Raider
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Pyro
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autobroadcaster
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Centipede
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Lancer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Knight
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Inquisitor
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Scyther
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Pikeman
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Carpenter
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Termite
+ROCKETMAN: Found patch in RocketMan.DebugWindowsOpener_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.MainMenuDrawer_DoMainMenuControls_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.RoomStatWorker_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.Pawn_TimetableTracker_GetAssignment_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.TickManager_DoSingleTick_Context_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.TickManager_TickRateMultiplier_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.TickManager_Notify_GeneratedPotentiallyHostileMap_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.TickManager_TickManagerUpdate_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.TimeSlower_SignalForceNormalSpeed_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.TimeSlower_SignalForceNormalSpeedShort_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Optimizations.PlayLog_ReduceToCapacity_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Optimizations.StatPart_ApparelStatOffSet_Skipper_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Optimizations.StatWorker_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Text_Patch+Text_Anchor_Getter_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Text_Patch+Text_Anchor_Setter_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Text_Patch+Text_WordWrap_Getter_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Text_Patch+Text_WordWrap_Setter_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Text_Patch+Text_Font_Getter_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Text_Patch+Text_Font_Setter_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Text_Patch+Text_CurFontStyle_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Text_Patch+Text_CurTextAreaReadOnlyStyle_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Text_Patch+Text_CurTextAreaStyle_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Text_Patch+Text_CurTextFieldStyle_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.MapGenerator_Patch+GenerateMap_Patch and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.Pawn_Notify_Dirty+Pawn_ApparelTracker_Dirty and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.Pawn_Notify_Dirty+Pawn_EquipmentTracker_Dirty and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.Pawn_Notify_Dirty+Pawn_Dirty and is valid
+ROCKETMAN: Found patch in RocketMan.Patches.Pawn_Notify_Dirty+Pawn_HealthTracker_Dirty and is valid
+ROCKETMAN: Found patch in RocketMan.Optimizations.WorldReachability_Patch+WorldReachability_CanReach_Patch and is valid
+ROCKETMAN: Hijacking ([REFLECTED] RimWorld.StatWorker:GetValue, [DECLARING] RimWorld.StatWorker:GetValue, [ISSTATIC] False, [ISPUBLIC] False, [ISVIRTUAL] StatWorker, [ABSTRACT] False)
+ROCKETMAN: Patching finished
+[BetterLoading] Obtained synclock, assuming post-load actions are complete and starting static constructors.
+[BetterLoading] Starting Antifreeze(tm) StaticConstructorCaller. Synchronizing retransmission chronicity...
+Type Patch_StatPart_WorldObject_Draw probably needs a StaticConstructorOnStartup attribute, because it has a field propertyBlock0 of type MaterialPropertyBlock. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Type ModSettingsWindow probably needs a StaticConstructorOnStartup attribute, because it has a field cachedWeaponTexture of type Texture2D. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Type TexTab probably needs a StaticConstructorOnStartup attribute, because it has a field Settings of type Texture2D. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Running Post Content Load Callbacks at 6:34:52 PM.
+[BetterLoading] Starting stage Finalizing Mods.
+[BetterLoading] One or more mods have Harmony-Postfixed StaticConstructorOnStartupUtility#CallAll. This is likely to cause errors or undesired behavior, as BetterLoading changes this method to be called from another Thread than the UI one. A list of patches follows. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] In addition, when BetterLoading is installed, this postfix will run before any static constructors do, so it likely will not behave as the modder intended anyway. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading]    - static System.Void RecycleThis.StaticConstructorOnStartupUtilityPatch::Postfix() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Modders: Consider either loading this data on world load, using a regular static constructor but asking your users to put the mod last in the load order, or if it MUST be done now, consider using BetterLoading API to detect the start of StageRunPostFinalizeCallbacks, which fires once static constructors are done. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Players: I'm not interested in this warning, if a mod is breaking, show this message to the person who made that mod, not to me. They can reach out to me if they need assistance. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[CSG]</color> Symbols Creator Started.
+<color=orange>[CSG]</color> Created 13112 symbolDefs for 3 mods. Took 00.02s.
+[Utility Columns] - Patching...
+Alien race successfully completed 180 patches with harmony.
+[Map Preview] Loaded cached true colors for 270 terrain defs from file.
+Failed inject m_MeshScaler - hair under hats wont work F 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Damage Indicators initialized.
+Clothing Sorter: Updating 92 apparel categories.
+Sorting by layer, then by None
+Clothing Sorter: Update done.
+Path Avoid: Adding Harmony Postfix to PawnUtility.GetAvoidGrid()
+Patching Madeline.ModMismatchWindow
+Wall Light: v1.3.7890.36463
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+[ShowDrafteesWeapon] Initialized
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+Adding MAC_Custom_Make_Apparel_PsyfocusShirt1 to ElectricTailoringBench
+Adding MAC_Custom_Make_Apparel_PsyfocusShirt1 to HandTailoringBench
+[BetterLoading] Finished stage Finalizing Mods at 6:35:17 PM.
+[BetterLoading] Starting stage Running Post-Finalize Callbacks.
+[BetterLoading] Finished calling static constructors at 6:35:17 PM.
+[BetterLoading] Processing 5 post-finalize tasks.
+[BetterLoading] Finished stage Running Post-Finalize Callbacks at 6:35:24 PM.
+[BetterLoading] Starting stage Initializing HugsLib.
+found Stloc_1
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+# YayoCombat detected
+[HugsLib] initializing MapReroll, CentralizedClimateControl, MaterialFilter, LessArbitrarySurgery, HeatMap, Hospitality, AlmostThere, RealisticRoomsRewritten, ImprovedWorkbenches, LWM_DeepStorage, SearchAndDestroy, WhatTheHack, YayoCombat3, yayoAni, caravanVisual, MSE2, me.lubar.VanillaBooksExpandedExpanded
+[BetterLoading:HugsLib Compat] HugsLib has enumerated child mods, it has found 18 of them.
+[MaterialFilter] Init
+[MaterialFilter] specialThingFilterDefs generated
+FactionDef VFEP_Mercenaries must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Vanilla Factions Expanded - Pirates. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib][warn] Missing enum setting labels for enum caravanVisual.core+en_zoomMode 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MSE2] Some prostheses that have not been patched were detected in mods: Core, Cybernetic Organism and Neural Network, What the hack?!, Vanilla Ideology Expanded - Memes and Structures, Vanilla Genetics Expanded. They will default to vanilla behaviour.
+
+<Denture> from "Core": tongue
+
+<Trunken_hediff_ElasticAchilles> from "Cybernetic Organism and Neural Network": toe
+
+<Trunken_hediff_CompressionJaw> from "Cybernetic Organism and Neural Network": tongue
+
+<WTH_RepairArm> from "What the hack?!": arm, hand, finger, blade
+
+<VME_FleshcraftedArmHediff> from "Vanilla Ideology Expanded - Memes and Structures": clavicle, arm, humerus, radius, hand, finger
+
+<VME_FleshcraftedHandHediff> from "Vanilla Ideology Expanded - Memes and Structures": finger
+
+<VME_FleshcraftedLegHediff> from "Vanilla Ideology Expanded - Memes and Structures": femur, tibia, foot, toe
+
+<VME_FleshcraftedJawHediff> from "Vanilla Ideology Expanded - Memes and Structures": tongue
+
+<GR_BearLeg> from "Vanilla Genetics Expanded": paw, foot, femur, tibia, toe, hoof, front claw, rear claw
+
+<GR_LizardLeg> from "Vanilla Genetics Expanded": paw, foot, femur, tibia, toe, hoof, front claw, rear claw
+
+<GR_ThrumboLeg> from "Vanilla Genetics Expanded": paw, foot, femur, tibia, toe, hoof, front claw, rear claw
+
+<GR_RodentNose> from "Vanilla Genetics Expanded": horn
+
+<GR_InsectoidPheromones> from "Vanilla Genetics Expanded": horn
+
+<GR_MiniatureThrumboHorn> from "Vanilla Genetics Expanded": horn
+
+<GR_WolfJaws> from "Vanilla Genetics Expanded": tusk, fangs
+
+<GR_InsectMandibles> from "Vanilla Genetics Expanded": tusk, fangs
+
+<GR_ThrumboJaws> from "Vanilla Genetics Expanded": tusk, fangs
+
+<GR_BearClaws> from "Vanilla Genetics Expanded": finger
+
+<GR_DiggingBearClaws> from "Vanilla Genetics Expanded": finger
+
+<GR_VenomousFangs> from "Vanilla Genetics Expanded": tongue
+
+
+[MSE2] Ignoring unsupported sub-parts:
+
+SimpleProstheticArm: Clavicle
+
+SimpleProstheticForearm: Humerus, Radius
+
+SimpleProstheticLeg: Femur, Tibia
+
+
+[BetterLoading:HugsLib Compat] HugsLib has Loaded, Reloaded, and Initialized. Marking as done.
+[BetterLoading] Finished processing load list, hiding.
+[BetterLoading] Game load has finished. Timing data follows:
+Spent 26843.3963ms reading, building, and patching XML tree.
+Spent 25206.6784ms turning XML into def instances.
+Spent 123991.4552ms resolving cross-references and running post-load, pre-finalize callbacks.
+Spent 53878.9842ms running static constructors (initializing mods).
+Spent -63787390524679.4ms running post-finalize callbacks.
+In total, spent 264240.4075ms launching the game.
+[Best Mix] was applied to 57 work bench(es).
+[BetterLoading] Obtained lock, assuming we're done with post-finalize.
+Failed inject m_MeshScaler - hair under hats wont work F 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.492100 ms
+
+Unloading 229 unused Assets to reduce memory usage. Loaded Objects now: 38418.
+Total: 510.328200 ms (FindLiveObjects: 3.150000 ms CreateObjectMapping: 3.846200 ms MarkObjects: 502.202900 ms  DeleteObjects: 1.128700 ms)
+
+Loading game from file Order of Infinite Oness with mods:
+  - brrainz.harmony
+  - me.samboycoding.betterloading
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Dubwise.DubsPerformanceAnalyzer
+  - Fluffy.ModManager
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - xelnigma.psyeltex
+  - xelnigma.psypsychitetea
+  - PureMJ.MjRimMods.VanillaFixHaulAfterSlaughter
+  - VanillaExpanded.VFEFarming
+  - LWM.RestrictedStorage
+  - UnlimitedHugs.HugsLib
+  - Uuugggg.TDPack
+  - automatic.traderships
+  - UnlimitedHugs.MapReroll
+  - UnlimitedHugs.AllowTool
+  - Terrasecurity
+  - Mlie.CentralizedClimateControl
+  - KamiKatze.MaterialFilter
+  - nephlite.orbitaltradecolumn
+  - Uuugggg.SmartMedicine
+  - erdelf.HumanoidAlienRaces
+  - neronix17.toolbox
+  - erin.decorations
+  - theeyeofbrows.fluffybreakdowns
+  - Mlie.LessArbitrarySurgery
+  - Dark.JobInBar
+  - Vanya.Tools.IncidentPersonStat
+  - Jaxe.Bubbles
+  - automatic.gunplay
+  - m00nl1ght.MapPreview
+  - falconne.HeatMap
+  - Neronix17.Retexture.VanillaHair
+  - Orion.Hospitality
+  - CaptainMuscles.PrioritizeResearch
+  - Dubwise.DubsApparelTweaks
+  - Dubwise.Rimatomics
+  - Dubwise.DubsPaintShop
+  - dubwise.dubsmintminimap
+  - Dubwise.DubsMintMenus
+  - Dubwise.DubsBreakMod
+  - tikubonn.DontBlockDoor
+  - SteelChicken.DevilstrandHydroponics
+  - Fluffy.Blueprints
+  - CaptainMuscles.Callouts
+  - Mlie.ConvertThenRecruit
+  - CaesarV6.DamageIndicators
+  - Mlie.ClothingSorter
+  - kikohi.cybernetic
+  - Owlchemist.CleanPathfinding
+  - azuraal.choiceofpsycasts
+  - CaptainMuscles.ChillOut
+  - arof.BuildFromInventoryForked
+  - automatic.bionicicons
+  - roolo.AlmostThere
+  - Taranchuk.PerformanceOptimizer
+  - Owlchemist.PerspectiveBuildings
+  - Uuugggg.ReplaceStuff
+  - rimfridge.kv.rw
+  - Owlchemist.PerspectiveTrees
+  - Mlie.RelevantStatsInDescription
+  - AveryTheKitty.RefinedFloors
+  - automatic.recipeicons
+  - Lucifer.RealisticRooms
+  - brrainz.rangefinder
+  - Fluffy.Pharmacist
+  - OskarPotocki.VanillaExpanded.IdeologyPatches
+  - Mlie.PrisonersShouldFearTurrets
+  - pathavoid.kv.rw
+  - Madeline.ModMismatchFormatter
+  - Haecriver.OutfitCopy
+  - falconne.BWM
+  - Murmur.PawnNameVariety
+  - weilbyte.snapout
+  - JBloodthorn.NoLazyDoctors
+  - Supes.ParallelPowerGrid
+  - moretraitslots.kv.rw
+  - machine.betterinfestations
+  - Rax.MorphGun
+  - VanillaExpanded.VFESecurity
+  - ben.automaticnightowl
+  - LWM.DeepStorage
+  - VanillaExpanded.VFECore
+  - OskarPotocki.VFE.Pirates
+  - VanillaExpanded.VFEArchitect
+  - VanillaExpanded.Ideo.IconsandSymbols
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VFESpacer
+  - VanillaExpanded.VFEPropsandDecor
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEArt
+  - OskarPotocki.VanillaExpanded.RoyaltyPatches
+  - VanillaExpanded.VFEA
+  - Mlie.RoadsOfTheRim
+  - VanillaExpanded.VCEF
+  - Supes.SelectedReconnector
+  - VanillaExpanded.VCookESushi
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.Ideo.RelicsAndArtifacts
+  - vanillaexpanded.outposts
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VanillaTraitsExpanded
+  - twistedpacifist.ReasonableComponents
+  - roolo.SearchAndDestroy
+  - FrozenSnowFox.NoDefaultShelfStorage
+  - FrozenSnowFox.EfficientUtilities
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VAECD
+  - Neronix17.SubpersonaShells
+  - Fluffy.WorkTab
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VWEL
+  - VanillaExpanded.VWEHW
+  - legodude17.heavyweaponsreloading
+  - roolo.whatthehack
+  - bodlosh.WeaponStats
+  - Murmur.WallLight
+  - Mlie.AnimalHarvestingSpot
+  - 22.Virtue.Frame
+  - JangoDsoul.SimpleStorage
+  - tikubonn.StuffedDoll
+  - brrainz.achtung
+  - MrChimick.TooManyAreas
+  - legodude17.smartdecon
+  - hobtook.tradeui
+  - tidal.morevanilla.textures
+  - dhultgren.smarterconstruction
+  - denev.SmartTurretCovering
+  - SaucyPigeon.PawnBadge
+  - avilmask.SelfDyeing
+  - Dark.Signs
+  - syrchalis.setupcamp
+  - targhetti.ShowDrafteesWeapon
+  - CaptainMuscles.SemiRandomResearch
+  - com.yayo.combat3
+  - Dra.YayoCombatWarcaskets
+  - com.yayo.yayoAni
+  - PeteTimesSix.SimpleSidearms
+  - com.yayo.caravanVisual
+  - Sixdd.LittleStorage2
+  - Mehni.PickUpAndHaul
+  - Fluffy.FollowMe
+  - OskarPotocki.VFE.Mechanoid
+  - khamenman.armorracks
+  - Sk.WeaponMastery
+  - MSE2.Core
+  - VanillaExpanded.VMemesE
+  - purpleyam.moreideologicalwords
+  - PureMJ.MjRimMods.VanillaFix_MortarShellLoading
+  - Sarg.AlphaMemes
+  - MrKociak.BIECombatDrones
+  - visibleraidpoints.1trickPonyta
+  - pb3n.SimpleWarrants
+  - Yoann.BalancedFloorsMarketValue
+  - Mlie.BetterMessagePlacement
+  - me.lubar.VanillaBooksExpandedExpanded
+  - Mlie.PlasteelSurgery
+  - Mlie.PSReconditioningPod
+  - calamabanana.breachableembrasures
+  - Garethp.ReplaceStuffCompatibility
+  - DerekBickley.LTOColonyGroupsFinal
+  - Oken.RebalancedDeepStorage
+  - VanillaExpanded.VGeneticsE
+  - catachat.inspirationtweaks
+  - xelnigma.miniturretbuff
+  - bustedbunny.recylethis
+  - VanillaExpanded.VTEXVariations
+  - Shenanigans.TechTattoos
+  - Krkr.RocketMan
+  - aRandomKiwi.KillForMe
+  - Mlie.BestMix
+  - Scorpio.MakeAnythingCraftable
+found Stloc_1
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+[CM_Semi_Random_Research] - patching to conditionally hide normal start research button.
+ROCKETMAN: Hijacking ([REFLECTED] RimWorld.StatWorker:GetValue, [DECLARING] RimWorld.StatWorker:GetValue, [ISSTATIC] False, [ISPUBLIC] False, [ISVIRTUAL] StatWorker, [ABSTRACT] False)
+[BetterLoading] Not showing game load/save screen because we've detected what we believe to be a multiplayer mod: Multiplayer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Yayo's Combat Warcaskets] - Found method to patch
+Achtung v3.4.4.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaSocialInteractionsExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaSocialInteractionsExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaSocialInteractionsExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and SK_WeaponMastery.MasteryWeaponCompData. label=bonusstatsperpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and SK_WeaponMastery.MasteryWeaponCompData. label=bonusstatsperpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and SK_WeaponMastery.MasteryWeaponCompData. label=bonusstatsperpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and SK_WeaponMastery.MasteryWeaponCompData. label=bonusstatsperpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and SK_WeaponMastery.MasteryWeaponCompData. label=bonusstatsperpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Transpiled 1966 methods, it took: 10.38705
+Cleaned up 76 deprecated records from What the Hack!?
+GC : animation data count [0 -> 0]
+SOYUZ: Preset loaded!
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+The variations mod has probably been added to a running save. Ignoring load error.
+The variations mod has probably been added to a running save. Ignoring load error.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 50363.
+Total: 808.783700 ms (FindLiveObjects: 2.107000 ms CreateObjectMapping: 5.559600 ms MarkObjects: 800.103500 ms  DeleteObjects: 1.013200 ms)
+
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+ROCKETMAN: Position verfication started!
+GC : animation data count [192 -> 106]
+Exception ticking hediff (Trunken_hediff_NeuroEnhancer brain ticksSinceCreation=3760) for pawn Aslosrusbos. Removing hediff... Exception: System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) CONN.RecreationGiverHediffComp.CONN.RecreationGiverHediffComp.CompPostTick_Patch0(CONN.RecreationGiverHediffComp,single&)
+  at Verse.HediffWithComps.PostTick () [0x00024] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at (wrapper dynamic-method) Verse.Pawn_HealthTracker.Verse.Pawn_HealthTracker.HealthTick_Patch1(Verse.Pawn_HealthTracker) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.659000 ms
+
+Unloading 11320 unused Assets to reduce memory usage. Loaded Objects now: 41109.
+Total: 930.359400 ms (FindLiveObjects: 5.236300 ms CreateObjectMapping: 5.158700 ms MarkObjects: 889.245500 ms  DeleteObjects: 30.716800 ms)
+
+Loading game from file Order of Infinite Oness with mods:
+  - brrainz.harmony
+  - me.samboycoding.betterloading
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Dubwise.DubsPerformanceAnalyzer
+  - Fluffy.ModManager
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - xelnigma.psyeltex
+  - xelnigma.psypsychitetea
+  - PureMJ.MjRimMods.VanillaFixHaulAfterSlaughter
+  - VanillaExpanded.VFEFarming
+  - LWM.RestrictedStorage
+  - UnlimitedHugs.HugsLib
+  - Uuugggg.TDPack
+  - automatic.traderships
+  - UnlimitedHugs.MapReroll
+  - UnlimitedHugs.AllowTool
+  - Terrasecurity
+  - Mlie.CentralizedClimateControl
+  - KamiKatze.MaterialFilter
+  - nephlite.orbitaltradecolumn
+  - Uuugggg.SmartMedicine
+  - erdelf.HumanoidAlienRaces
+  - neronix17.toolbox
+  - erin.decorations
+  - theeyeofbrows.fluffybreakdowns
+  - Mlie.LessArbitrarySurgery
+  - Dark.JobInBar
+  - Vanya.Tools.IncidentPersonStat
+  - Jaxe.Bubbles
+  - automatic.gunplay
+  - m00nl1ght.MapPreview
+  - falconne.HeatMap
+  - Neronix17.Retexture.VanillaHair
+  - Orion.Hospitality
+  - CaptainMuscles.PrioritizeResearch
+  - Dubwise.DubsApparelTweaks
+  - Dubwise.Rimatomics
+  - Dubwise.DubsPaintShop
+  - dubwise.dubsmintminimap
+  - Dubwise.DubsMintMenus
+  - Dubwise.DubsBreakMod
+  - tikubonn.DontBlockDoor
+  - SteelChicken.DevilstrandHydroponics
+  - Fluffy.Blueprints
+  - CaptainMuscles.Callouts
+  - Mlie.ConvertThenRecruit
+  - CaesarV6.DamageIndicators
+  - Mlie.ClothingSorter
+  - kikohi.cybernetic
+  - Owlchemist.CleanPathfinding
+  - azuraal.choiceofpsycasts
+  - CaptainMuscles.ChillOut
+  - arof.BuildFromInventoryForked
+  - automatic.bionicicons
+  - roolo.AlmostThere
+  - Taranchuk.PerformanceOptimizer
+  - Owlchemist.PerspectiveBuildings
+  - Uuugggg.ReplaceStuff
+  - rimfridge.kv.rw
+  - Owlchemist.PerspectiveTrees
+  - Mlie.RelevantStatsInDescription
+  - AveryTheKitty.RefinedFloors
+  - automatic.recipeicons
+  - Lucifer.RealisticRooms
+  - brrainz.rangefinder
+  - Fluffy.Pharmacist
+  - OskarPotocki.VanillaExpanded.IdeologyPatches
+  - Mlie.PrisonersShouldFearTurrets
+  - pathavoid.kv.rw
+  - Madeline.ModMismatchFormatter
+  - Haecriver.OutfitCopy
+  - falconne.BWM
+  - Murmur.PawnNameVariety
+  - weilbyte.snapout
+  - JBloodthorn.NoLazyDoctors
+  - Supes.ParallelPowerGrid
+  - moretraitslots.kv.rw
+  - machine.betterinfestations
+  - Rax.MorphGun
+  - VanillaExpanded.VFESecurity
+  - ben.automaticnightowl
+  - LWM.DeepStorage
+  - VanillaExpanded.VFECore
+  - OskarPotocki.VFE.Pirates
+  - VanillaExpanded.VFEArchitect
+  - VanillaExpanded.Ideo.IconsandSymbols
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VFESpacer
+  - VanillaExpanded.VFEPropsandDecor
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEArt
+  - OskarPotocki.VanillaExpanded.RoyaltyPatches
+  - VanillaExpanded.VFEA
+  - Mlie.RoadsOfTheRim
+  - VanillaExpanded.VCEF
+  - Supes.SelectedReconnector
+  - VanillaExpanded.VCookESushi
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.Ideo.RelicsAndArtifacts
+  - vanillaexpanded.outposts
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VanillaTraitsExpanded
+  - twistedpacifist.ReasonableComponents
+  - roolo.SearchAndDestroy
+  - FrozenSnowFox.NoDefaultShelfStorage
+  - FrozenSnowFox.EfficientUtilities
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VAECD
+  - Neronix17.SubpersonaShells
+  - Fluffy.WorkTab
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VWEL
+  - VanillaExpanded.VWEHW
+  - legodude17.heavyweaponsreloading
+  - roolo.whatthehack
+  - bodlosh.WeaponStats
+  - Murmur.WallLight
+  - Mlie.AnimalHarvestingSpot
+  - 22.Virtue.Frame
+  - JangoDsoul.SimpleStorage
+  - tikubonn.StuffedDoll
+  - brrainz.achtung
+  - MrChimick.TooManyAreas
+  - legodude17.smartdecon
+  - hobtook.tradeui
+  - tidal.morevanilla.textures
+  - dhultgren.smarterconstruction
+  - denev.SmartTurretCovering
+  - SaucyPigeon.PawnBadge
+  - avilmask.SelfDyeing
+  - Dark.Signs
+  - syrchalis.setupcamp
+  - targhetti.ShowDrafteesWeapon
+  - CaptainMuscles.SemiRandomResearch
+  - com.yayo.combat3
+  - Dra.YayoCombatWarcaskets
+  - com.yayo.yayoAni
+  - PeteTimesSix.SimpleSidearms
+  - com.yayo.caravanVisual
+  - Sixdd.LittleStorage2
+  - Mehni.PickUpAndHaul
+  - Fluffy.FollowMe
+  - OskarPotocki.VFE.Mechanoid
+  - khamenman.armorracks
+  - Sk.WeaponMastery
+  - MSE2.Core
+  - VanillaExpanded.VMemesE
+  - purpleyam.moreideologicalwords
+  - PureMJ.MjRimMods.VanillaFix_MortarShellLoading
+  - Sarg.AlphaMemes
+  - MrKociak.BIECombatDrones
+  - visibleraidpoints.1trickPonyta
+  - pb3n.SimpleWarrants
+  - Yoann.BalancedFloorsMarketValue
+  - Mlie.BetterMessagePlacement
+  - me.lubar.VanillaBooksExpandedExpanded
+  - Mlie.PlasteelSurgery
+  - Mlie.PSReconditioningPod
+  - calamabanana.breachableembrasures
+  - Garethp.ReplaceStuffCompatibility
+  - DerekBickley.LTOColonyGroupsFinal
+  - Oken.RebalancedDeepStorage
+  - VanillaExpanded.VGeneticsE
+  - catachat.inspirationtweaks
+  - xelnigma.miniturretbuff
+  - bustedbunny.recylethis
+  - VanillaExpanded.VTEXVariations
+  - Shenanigans.TechTattoos
+  - Krkr.RocketMan
+  - aRandomKiwi.KillForMe
+  - Mlie.BestMix
+  - Scorpio.MakeAnythingCraftable
+[BetterLoading] Not showing game load/save screen because we've detected what we believe to be a multiplayer mod: Multiplayer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achtung v3.4.4.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and VanillaSocialInteractionsExpanded.WorkTime. label=workersWithWorkingTicks 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaSocialInteractionsExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaSocialInteractionsExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve reference to object with loadID Lord_546 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaSocialInteractionsExpanded.RaidGroup curPathRelToParent=/lords 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and SK_WeaponMastery.MasteryWeaponCompData. label=bonusstatsperpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and SK_WeaponMastery.MasteryWeaponCompData. label=bonusstatsperpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and SK_WeaponMastery.MasteryWeaponCompData. label=bonusstatsperpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and SK_WeaponMastery.MasteryWeaponCompData. label=bonusstatsperpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Null key while loading dictionary of Verse.Pawn and SK_WeaponMastery.MasteryWeaponCompData. label=bonusstatsperpawn 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Cleaned up 76 deprecated records from What the Hack!?
+GC : animation data count [185 -> 0]
+SOYUZ: Preset loaded!
