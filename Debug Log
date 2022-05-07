@@ -1,0 +1,2857 @@
+RimWorld 1.3.3326 rev562
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RimWorld.VersionControl:LogVersionNumber ()
+Verse.Root:CheckGlobalInit ()
+Verse.Root:Start ()
+Verse.Root_Entry:Start ()
+
+Tried loading mod with the same packageId multiple times: jecrell.jecstools. Ignoring the duplicates.
+F:\SteamLibrary\steamapps\workshop\content\294100\932008009
+F:\SteamLibrary\steamapps\workshop\content\294100\2195729899
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.ModLister:TryAddMod (Verse.ModMetaData)
+Verse.ModLister:RebuildModList ()
+Verse.Steam.WorkshopItems:RebuildItemsList ()
+Verse.Steam.WorkshopItems:.cctor ()
+Verse.ModLister:RebuildModList ()
+Verse.ModLister:.cctor ()
+Verse.ModsConfig:.cctor ()
+Verse.LoadedModManager:InitializeMods ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Mod MSE2 - Simple Modules dependency (MSE2.Core) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Verse.ModMetaData/ModMetaDataInternal:ValidateDependencies (bool)
+Verse.ModMetaData:Init ()
+Verse.ModMetaData:.ctor (string,bool)
+Verse.ModLister:RebuildModList ()
+Verse.ModLister:.cctor ()
+Verse.ModsConfig:.cctor ()
+Verse.LoadedModManager:InitializeMods ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Tried loading mod with the same packageId multiple times: jecrell.jecstools. Ignoring the duplicates.
+F:\SteamLibrary\steamapps\workshop\content\294100\932008009
+F:\SteamLibrary\steamapps\workshop\content\294100\2195729899
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Error (string)
+Verse.ModLister:TryAddMod (Verse.ModMetaData)
+Verse.ModLister:RebuildModList ()
+Verse.ModLister:.cctor ()
+Verse.ModsConfig:.cctor ()
+Verse.LoadedModManager:InitializeMods ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[5/7/2022 5:23:31 PM] [BetterLoading] Verifying all mods loaded properly...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.BetterLoadingMain:LogMsg (string)
+BetterLoading.BetterLoadingMain:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+System.Activator:CreateInstance (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[BetterLoading] Read tip cache of 106 tips from config.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreenTipManager:TryReadCachedTipsFromConfig ()
+BetterLoading.BetterLoadingConfigManager:Load ()
+BetterLoading.BetterLoadingMain:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+System.Activator:CreateInstance (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[BetterLoading] Injecting into main UI.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.BetterLoadingMain:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+System.Activator:CreateInstance (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[BetterLoading] Injected into main UI.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:Awake ()
+UnityEngine.GameObject:AddComponent (System.Type)
+UnityEngine.GameObject:AddComponent<BetterLoading.LoadingScreen> ()
+BetterLoading.BetterLoadingMain:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+System.Activator:CreateInstance (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[VanillaFixHaulAfterSlaughter 0.1.0] Mod Loaded.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MjRimMods.VanillaFixHaulAfterSlaughter.Utils:WriteLog (MjRimMods.VanillaFixHaulAfterSlaughter.Utils/LogMethod,string)
+MjRimMods.VanillaFixHaulAfterSlaughter.Utils:Message (string)
+MjRimMods.VanillaFixHaulAfterSlaughter.ModMain:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[HugsLib] version 9.0.1
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+HugsLib.Utils.ModLogger:Message (string,object[])
+HugsLib.HugsLibController:InitializeController ()
+HugsLib.HugsLibController:EarlyInitialize ()
+HugsLib.Core.HugsLibMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[HugsLib] early-initializing AllowTool
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+HugsLib.Utils.ModLogger:Message (string,object[])
+HugsLib.HugsLibController:EnumerateChildMods (bool)
+HugsLib.HugsLibController:EarlyInitializeChildMods ()
+HugsLib.HugsLibController:InitializeController ()
+HugsLib.HugsLibController:EarlyInitialize ()
+HugsLib.Core.HugsLibMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+:: Outpost 21 Toolbox :: 2.5.8150 ::
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+O21Toolbox.O21ToolboxMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Fluffy Breakdowns :: Initialized
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Fluffy_Breakdowns.Controller:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[ForceRewardsDetails] applied.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+ForceRewardsDetails.RewardsDetails:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[Interaction Bubbles v1.8] Initialized
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Bubbles.Mod:Log (string)
+Bubbles.Mod:.cctor ()
+Bubbles.Instance:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[Map Preview] Applying compatibility patches for Performance Optimizer.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MapPreview.Patches.ModCompat_PerformanceOptimizer:Apply ()
+MapPreview.ModInstance:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CM_Prioritize_Research.FloatMenuMakerMap_Patches/FloatMenuMakerMap_AddJobGiverWorkOrders/<Transpiler>d__0:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchClassProcessor:ProcessPatchJob (HarmonyLib.PatchJobs`1/Job<System.Reflection.MethodInfo>)
+HarmonyLib.PatchClassProcessor:PatchWithAttributes (System.Reflection.MethodBase&)
+HarmonyLib.PatchClassProcessor:Patch ()
+HarmonyLib.Harmony:<PatchAll>b__10_0 (System.Type)
+HarmonyLib.CollectionExtensions:Do<System.Type> (System.Collections.Generic.IEnumerable`1<System.Type>,System.Action`1<System.Type>)
+HarmonyLib.Harmony:PatchAll (System.Reflection.Assembly)
+HarmonyLib.Harmony:PatchAll ()
+CM_Prioritize_Research.PrioritizeResearchMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Rimatomics 1.7.2473
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Rimatomics.RimatomicsMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+DubsPaintShop 1.1.573
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+DubRoss.DubsPaintShopMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Dubs Mint Minimap 1.3.787
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+DubsMintMinimap.DubsMintMinimapMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+DubsMintMenus v1.3.995
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+DubsMintMenus.DubsMintMenusMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+DubsBreakMod 1.0.809
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+DubsBreakMod.MentalManagementMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[Vanilla Furniture Expanded - Architect] Activating Replace Stuff compatibility patch
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+VFEArchitect.ArchitectMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[VanillaAchievementsExpanded] version 1.3.7862
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+AchievementsExpanded.AchievementHarmony:.cctor ()
+AchievementsExpanded.AssemblyHandler:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+:: Subpersona Shells :: 1.0.0 ::
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+SubpersonaAI.SubpersonaMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[CM_Semi_Random_Research] - patching to conditionally hide normal start research button.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CM_Semi_Random_Research.MainTabWindow_Research_Patches/MainTabWindow_Research_DrawLeftRect/<Transpiler>d__0:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchClassProcessor:ProcessPatchJob (HarmonyLib.PatchJobs`1/Job<System.Reflection.MethodInfo>)
+HarmonyLib.PatchClassProcessor:PatchWithAttributes (System.Reflection.MethodBase&)
+HarmonyLib.PatchClassProcessor:Patch ()
+HarmonyLib.Harmony:<PatchAll>b__10_0 (System.Type)
+HarmonyLib.CollectionExtensions:Do<System.Type> (System.Collections.Generic.IEnumerable`1<System.Type>,System.Action`1<System.Type>)
+HarmonyLib.Harmony:PatchAll (System.Reflection.Assembly)
+HarmonyLib.Harmony:PatchAll ()
+CM_Semi_Random_Research.SemiRandomResearchMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[Yayo's Combat Warcaskets] - Found method to patch
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+YayoCombatWarcaskets.HarmonyPatches/PatchWarcasketDurability/<Transpiler>d__3:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchClassProcessor:ProcessPatchJob (HarmonyLib.PatchJobs`1/Job<System.Reflection.MethodInfo>)
+HarmonyLib.PatchClassProcessor:BulkPatch (System.Collections.Generic.List`1<System.Reflection.MethodBase>,System.Reflection.MethodBase&)
+HarmonyLib.PatchClassProcessor:Patch ()
+HarmonyLib.Harmony:<PatchAll>b__10_0 (System.Type)
+HarmonyLib.CollectionExtensions:Do<System.Type> (System.Collections.Generic.IEnumerable`1<System.Type>,System.Action`1<System.Type>)
+HarmonyLib.Harmony:PatchAll (System.Reflection.Assembly)
+HarmonyLib.Harmony:PatchAll ()
+YayoCombatWarcaskets.YayoCombatWarcasketsMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[Visible Raid Points] Loaded.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+VisibleRaidPoints.VisibleRaidPointsMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+ROCKETMAN: config path C:\Users\XelNigma\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\rocketeer.0102.txt
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.RocketEnvironmentInfo:get_IsDevEnv ()
+RocketMan.RocketPluginsLoader:LoadAll ()
+RocketMan.RocketMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Proton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.RocketMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Soyuz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.RocketMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+<color=orange>ROCKETMAN:</color> Version 0.6.3.2196
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.Main:.cctor ()
+RocketMan.RocketMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+SOYUZ: Created _transformationCache
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Soyuz.ContextualExtensions:Initialize ()
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+RocketMan.FunctionsUtility/<>c__DisplayClass1_0`1<RocketMan.Main/OnInitialization>:<GetActions>b__3 ()
+RocketMan.RocketMod:.ctor (Verse.ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.LoadedModManager:CreateModClasses ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[BetterLoading] Finished stage Initializing Mods at 5:23:56 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] HugsLib detected, adding HugsLib support.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Compat.HugsLibCompat:Load ()
+BetterLoading.Stage.InitialLoad.StageInitMods:BecomeInactive ()
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading:HugsLib Compat] Resolved required HugsLib types as follows: Controller: HugsLib.HugsLibController / Mod Identifier (Property): ModIdentifier
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Compat.HugsLib.StageHugsLibInit:DoPatching (HarmonyLib.Harmony)
+BetterLoading.Stage.LoadingStage:.ctor (HarmonyLib.Harmony)
+BetterLoading.Compat.HugsLib.StageHugsLibInit:.ctor (HarmonyLib.Harmony)
+BetterLoading.Compat.HugsLibCompat:Load ()
+BetterLoading.Stage.InitialLoad.StageInitMods:BecomeInactive ()
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading:HugsLib Compat] Successfully blind-patched HugsLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Compat.HugsLib.StageHugsLibInit:DoPatching (HarmonyLib.Harmony)
+BetterLoading.Stage.LoadingStage:.ctor (HarmonyLib.Harmony)
+BetterLoading.Compat.HugsLib.StageHugsLibInit:.ctor (HarmonyLib.Harmony)
+BetterLoading.Compat.HugsLibCompat:Load ()
+BetterLoading.Stage.InitialLoad.StageInitMods:BecomeInactive ()
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Starting stage Reading Mod Content Files.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Finished stage Reading Mod Content Files at 5:24:03 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Starting stage Injecting Mod XML.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] [Enhanced XML Load] Loaded 2262 loadable assets.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Stage.InitialLoad.StageReadXML:AlternativeLoadModXml (System.Collections.Generic.List`1<Verse.LoadableXmlAsset>&)
+(wrapper dynamic-method) Verse.LoadedModManager:Verse.LoadedModManager.LoadModXML_Patch2 ()
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[BetterLoading] Finished stage Injecting Mod XML at 5:24:03 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Starting stage Applying Patches.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Finished stage Applying Patches at 5:24:03 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Starting stage Registering Defs.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+LWM.DeepStorage.PatchMessage:ApplyWorker (System.Xml.XmlDocument)
+(wrapper dynamic-method) Verse.PatchOperation:Verse.PatchOperation.Apply_Patch1 (Verse.PatchOperation,System.Xml.XmlDocument)
+Verse.PatchOperationSequence:ApplyWorker (System.Xml.XmlDocument)
+(wrapper dynamic-method) Verse.PatchOperation:Verse.PatchOperation.Apply_Patch1 (Verse.PatchOperation,System.Xml.XmlDocument)
+Verse.PatchOperationFindMod:ApplyWorker (System.Xml.XmlDocument)
+(wrapper dynamic-method) Verse.PatchOperation:Verse.PatchOperation.Apply_Patch1 (Verse.PatchOperation,System.Xml.XmlDocument)
+(wrapper dynamic-method) Verse.LoadedModManager:Verse.LoadedModManager.ApplyPatches_Patch1 (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[BetterLoading] Finished stage Registering Defs at 5:24:15 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Starting stage Constructing Defs.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+XML error: Duplicate XML node name designatorDropdown in this XML block: <TerrainDef ParentName="FloorBase"><defName>WoodPlankFloor</defName><label>wood floor</label><renderPrecedence>250</renderPrecedence><description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</description><texturePath>Terrain/Surfaces/WoodFloor</texturePath><burnedDef>BurnedWoodPlankFloor</burnedDef><color>(108,78,55)</color><statBases><WorkToBuild>85</WorkToBuild><Flammability>0.22</Flammability></statBases><costList><WoodLog>3</WoodLog></costList><constructEffect>ConstructWood</constructEffect><designationHotKey>Misc9</designationHotKey><designatorDropdown>Floor_Wood</designatorDropdown><designatorDropdown>VFEArch_WoodFloor</designatorDropdown></TerrainDef>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) Verse.Log:Verse.Log.Error_Patch3 (string)
+Verse.XmlInheritance:CheckForDuplicateNodes (System.Xml.XmlNode,System.Xml.XmlNode)
+Verse.XmlInheritance:ResolveXmlNodeFor (Verse.XmlInheritance/XmlInheritanceNode)
+Verse.XmlInheritance:ResolveXmlNodesRecursively (Verse.XmlInheritance/XmlInheritanceNode)
+Verse.XmlInheritance:ResolveXmlNodesRecursively (Verse.XmlInheritance/XmlInheritanceNode)
+Verse.XmlInheritance:ResolveXmlNodes ()
+Verse.XmlInheritance:Resolve ()
+(wrapper dynamic-method) Verse.LoadedModManager:Verse.LoadedModManager.ParseAndProcessXML_Patch3 (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CM_Prioritize_Research.FloatMenuMakerMap_Patches/FloatMenuMakerMap_AddJobGiverWorkOrders/<Transpiler>d__0:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchProcessor:Patch ()
+HarmonyLib.Harmony:Patch (System.Reflection.MethodBase,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod)
+VFEAncients.PowerWorker_NoPrioritize:DoPatches (HarmonyLib.Harmony)
+VFEAncients.PowerDef:PostLoad ()
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+Verse.DirectXmlToObject:TryDoPostLoad (object)
+Verse.DirectXmlToObject:ObjectFromXml<VFEAncients.PowerDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<VFEAncients.PowerDef> (System.Xml.XmlNode,bool)
+(wrapper dynamic-method) Verse.DirectXmlLoader:Verse.DirectXmlLoader.DefFromNode_Patch1 (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+(wrapper dynamic-method) Verse.LoadedModManager:Verse.LoadedModManager.ParseAndProcessXML_Patch3 (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+XML error: <spawnConduits>False</spawnConduits> doesn't correspond to any field in type ScenPart_AddStartingStructure. Context: <li Class="KCSG.ScenPart_AddStartingStructure"><def>VFEC_AddStartingStructure</def><structureLabel>A sealed vault</structureLabel><spawnConduits>False</spawnConduits><nearMapCenter>True</nearMapCenter><fullClear>True</fullClear><chooseFrom><li>VFEA_SealedVaultAlpha</li><li>VFEA_SealedVaultBravo</li><li>VFEA_SealedVaultCharlie</li><li>VFEA_SealedVaultDelta</li><li>VFEA_SealedVaultEpsilon</li><li>VFEA_SealedVaultF</li><li>VFEA_SealedVaultG</li><li>VFEA_SealedVaultH</li><li>VFEA_SealedVaultI</li><li>VFEA_SealedVaultJ</li></chooseFrom><spawnTheStartingPawn>True</spawnTheStartingPawn><method>Standing</method></li>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) Verse.Log:Verse.Log.Error_Patch3 (string)
+Verse.DirectXmlToObject:ObjectFromXml<RimWorld.ScenPart> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ListFromXml<RimWorld.ScenPart> (System.Xml.XmlNode)
+Verse.DirectXmlToObject:ListFromXmlReflection<RimWorld.ScenPart> (System.Xml.XmlNode)
+Verse.DirectXmlToObject:ObjectFromXml<System.Collections.Generic.List`1<RimWorld.ScenPart>> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<System.Collections.Generic.List`1<RimWorld.ScenPart>> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXml<RimWorld.Scenario> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<RimWorld.Scenario> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXml<RimWorld.ScenarioDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<RimWorld.ScenarioDef> (System.Xml.XmlNode,bool)
+(wrapper dynamic-method) Verse.DirectXmlLoader:Verse.DirectXmlLoader.DefFromNode_Patch1 (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+(wrapper dynamic-method) Verse.LoadedModManager:Verse.LoadedModManager.ParseAndProcessXML_Patch3 (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+XML error: <spawnConduits>False</spawnConduits> doesn't correspond to any field in type ScenPart_AddStartingStructure. Context: <li Class="KCSG.ScenPart_AddStartingStructure"><def>VFEC_AddStartingStructure</def><structureLabel>An abandoned supply slingshot</structureLabel><spawnConduits>False</spawnConduits><nearMapCenter>True</nearMapCenter><fullClear>True</fullClear><chooseFrom><li>VFEA_AbandonedSupplySlingshot</li></chooseFrom></li>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) Verse.Log:Verse.Log.Error_Patch3 (string)
+Verse.DirectXmlToObject:ObjectFromXml<RimWorld.ScenPart> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ListFromXml<RimWorld.ScenPart> (System.Xml.XmlNode)
+Verse.DirectXmlToObject:ListFromXmlReflection<RimWorld.ScenPart> (System.Xml.XmlNode)
+Verse.DirectXmlToObject:ObjectFromXml<System.Collections.Generic.List`1<RimWorld.ScenPart>> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<System.Collections.Generic.List`1<RimWorld.ScenPart>> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXml<RimWorld.Scenario> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<RimWorld.Scenario> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXml<RimWorld.ScenarioDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<RimWorld.ScenarioDef> (System.Xml.XmlNode,bool)
+(wrapper dynamic-method) Verse.DirectXmlLoader:Verse.DirectXmlLoader.DefFromNode_Patch1 (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+(wrapper dynamic-method) Verse.LoadedModManager:Verse.LoadedModManager.ParseAndProcessXML_Patch3 (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[MVCF] [Reloading] Patching method Verse.Verb_LaunchProjectile.TryCastShot
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Reloading.HarmonyPatches:Patch (System.Reflection.MethodInfo,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,string,System.Type)
+Reloading.ReloadingMod:RegisterVerb (System.Type,bool)
+Reloading.CompProperties_Reloadable:PostLoadSpecial (Verse.ThingDef)
+Verse.ThingDef:PostLoad ()
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+Verse.DirectXmlToObject:TryDoPostLoad (object)
+Verse.DirectXmlToObject:ObjectFromXml<Verse.ThingDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<Verse.ThingDef> (System.Xml.XmlNode,bool)
+(wrapper dynamic-method) Verse.DirectXmlLoader:Verse.DirectXmlLoader.DefFromNode_Patch1 (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+(wrapper dynamic-method) Verse.LoadedModManager:Verse.LoadedModManager.ParseAndProcessXML_Patch3 (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[MVCF] [Reloading] Patching method Verse.Verb.Available
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Reloading.HarmonyPatches:Patch (System.Reflection.MethodInfo,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,string,System.Type)
+Reloading.ReloadingMod:RegisterVerb (System.Type,bool)
+Reloading.CompProperties_Reloadable:PostLoadSpecial (Verse.ThingDef)
+Verse.ThingDef:PostLoad ()
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+Verse.DirectXmlToObject:TryDoPostLoad (object)
+Verse.DirectXmlToObject:ObjectFromXml<Verse.ThingDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<Verse.ThingDef> (System.Xml.XmlNode,bool)
+(wrapper dynamic-method) Verse.DirectXmlLoader:Verse.DirectXmlLoader.DefFromNode_Patch1 (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+(wrapper dynamic-method) Verse.LoadedModManager:Verse.LoadedModManager.ParseAndProcessXML_Patch3 (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[MVCF] [Reloading] Patching method Verse.Verb_LaunchProjectile.get_Projectile
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Reloading.HarmonyPatches:Patch (System.Reflection.MethodInfo,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,string,System.Type)
+Reloading.ReloadingMod:RegisterVerb (System.Type,bool)
+Reloading.CompProperties_Reloadable:PostLoadSpecial (Verse.ThingDef)
+Verse.ThingDef:PostLoad ()
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+Verse.DirectXmlToObject:TryDoPostLoad (object)
+Verse.DirectXmlToObject:ObjectFromXml<Verse.ThingDef> (System.Xml.XmlNode,bool)
+Verse.DirectXmlToObject:ObjectFromXmlReflection<Verse.ThingDef> (System.Xml.XmlNode,bool)
+(wrapper dynamic-method) Verse.DirectXmlLoader:Verse.DirectXmlLoader.DefFromNode_Patch1 (System.Xml.XmlNode,Verse.LoadableXmlAsset)
+(wrapper dynamic-method) Verse.LoadedModManager:Verse.LoadedModManager.ParseAndProcessXML_Patch3 (System.Xml.XmlDocument,System.Collections.Generic.Dictionary`2<System.Xml.XmlNode, Verse.LoadableXmlAsset>)
+Verse.LoadedModManager:LoadAllActiveMods ()
+Verse.PlayDataLoader:DoPlayLoad ()
+Verse.PlayDataLoader:LoadAllPlayData (bool)
+Verse.Root/<>c:<Start>b__6_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[BetterLoading] Finished stage Constructing Defs at 5:24:31 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Starting stage Reloading Def Databases.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Finished stage Reloading Def Databases at 5:24:37 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Tips should now be available. Showing...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Stage.InitialLoad.StageResolveDefDatabases:BecomeInactive ()
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Starting stage Running Post Content Load Callbacks.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Processing 16731 post-load tasks.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Stage.InitialLoad.StageRunPostLoadPreFinalizeCallbacks:PreExecToExecWhenFinished (System.Collections.Generic.List`1<System.Action>)
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.ExecuteToExecuteWhenFinished_Patch2 ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+Translation data for language English has 4 errors. Generate translation report for more info.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Verse.LoadedLanguage:InjectIntoData_AfterImpliedDefs ()
+Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_1 ()
+BetterLoading.ToExecuteWhenFinishedHandler/<ExecuteToExecuteWhenFinishedTheGoodVersion>d__3:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+HugsLib.Utils.ModLogger:Message (string,object[])
+AllowTool.PickUpAndHaulCompatHandler:Apply ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETMAN: RocketMan settings are stored in <color=red>C:\Users\XelNigma\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Mod_2479389928_RocketMod.xml</color>
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETMAN: Defs loaded!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETMAN: Patched KeyBinder!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.KeyBinder:Start ()
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+RocketMan.FunctionsUtility/<>c__DisplayClass1_0`1<RocketMan.Main/OnDefsLoaded>:<GetActions>b__3 ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+PROTON: Analyzer patched!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Proton.Analyzer_H_AlertsReadoutUpdate_Patch/<Transpiler>d__2:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchProcessor:Patch ()
+HarmonyLib.Harmony:Patch (System.Reflection.MethodBase,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod)
+Proton.Analyzer_H_AlertsReadoutUpdate_Patch:Patch ()
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+RocketMan.FunctionsUtility/<>c__DisplayClass1_0`1<RocketMan.Main/OnDefsLoaded>:<GetActions>b__3 ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+PROTON: Patching finished
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Proton.ProtonPatcher:PatchAll ()
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+RocketMan.FunctionsUtility/<>c__DisplayClass1_0`1<RocketMan.Main/OnDefsLoaded>:<GetActions>b__3 ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+SOYUZ: Patching finished
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Soyuz.SoyuzPatcher:PatchAll ()
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+RocketMan.FunctionsUtility/<>c__DisplayClass1_0`1<RocketMan.Main/OnDefsLoaded>:<GetActions>b__3 ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETMAN: XMLParser started
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETRULES: IgnoreMeRule for OskarPotocki.VFE.Mechanoid
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:AddPackageId (string)
+RocketMan.XMLParser:ProcessRocketRuleData (System.Xml.XmlElement)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETRULES: IgnoreMeRule for Alaestor.MiscRobots.PlusPlus
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:AddPackageId (string)
+RocketMan.XMLParser:ProcessRocketRuleData (System.Xml.XmlElement)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETRULES: IgnoreMeRule for Haplo.Miscellaneous.Robots
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:AddPackageId (string)
+RocketMan.XMLParser:ProcessRocketRuleData (System.Xml.XmlElement)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETRULES: IgnoreMeRule for ChJees.Androids
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:AddPackageId (string)
+RocketMan.XMLParser:ProcessRocketRuleData (System.Xml.XmlElement)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETRULES: IgnoreMeRule for automatic.autocleaner
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:AddPackageId (string)
+RocketMan.XMLParser:ProcessRocketRuleData (System.Xml.XmlElement)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETRULES: IgnoreMeRule for neronix17.mechadroids
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:AddPackageId (string)
+RocketMan.XMLParser:ProcessRocketRuleData (System.Xml.XmlElement)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETRULES: IgnoreMeRule for neronix17.outerrim.galaxies
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:AddPackageId (string)
+RocketMan.XMLParser:ProcessRocketRuleData (System.Xml.XmlElement)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.drones
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:AddPackageId (string)
+RocketMan.XMLParser:ProcessRocketRuleData (System.Xml.XmlElement)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:AddPackageId (string)
+RocketMan.XMLParser:ProcessRocketRuleData (System.Xml.XmlElement)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:AddPackageId (string)
+RocketMan.XMLParser:ProcessRocketRuleData (System.Xml.XmlElement)
+RocketMan.XMLParser:ParseXML ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[0.002484 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCentipede
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedLancer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedKnight
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedInquisitor
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedScyther
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedPikeman
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCarpenter
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvTermite
+ROCKETRULES: IgnoreMe add def by name: BI_Queen
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autocleaner
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autohauler
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autominer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Combat
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Riot
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Turret
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autostrider
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_AutoMedic
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Raider
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Pyro
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autobroadcaster
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Centipede
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Lancer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Knight
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Inquisitor
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Scyther
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Pikeman
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Carpenter
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Termite
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.IgnoreMeDatabase:ParsePrepare ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+ROCKETMAN: Hijacking ([REFLECTED] RimWorld.StatWorker:GetValue, [DECLARING] RimWorld.StatWorker:GetValue, [ISSTATIC] False, [ISPUBLIC] False, [ISVIRTUAL] StatWorker, [ABSTRACT] False)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.Optimizations.StatWorker_Patch:Transpiler (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>,System.Reflection.MethodBase)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+HarmonyLib.CodeTranspiler/<>c__DisplayClass12_0:<GetResult>b__0 (System.Reflection.MethodInfo)
+System.Collections.Generic.List`1<System.Reflection.MethodInfo>:ForEach (System.Action`1<System.Reflection.MethodInfo>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchProcessor:Patch ()
+HarmonyLib.Harmony:Patch (System.Reflection.MethodBase,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod)
+RocketMan.IPatchInfo`1<RocketMan.RocketPatch>:Patch (HarmonyLib.Harmony)
+RocketMan.RocketPatcher:PatchAll ()
+RocketMan.Main:DefsLoaded ()
+RocketMan.RocketMod/<>c:<.ctor>b__3_0 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[BetterLoading] Obtained synclock, assuming post-load actions are complete and starting static constructors.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Stage.InitialLoad.StageRunPostLoadPreFinalizeCallbacks/<>c__DisplayClass15_0:<PreExecToExecWhenFinished>b__5 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[BetterLoading] Starting Antifreeze(tm) StaticConstructorCaller. Synchronizing retransmission chronicity...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+UnityEngine.MonoBehaviour:StartCoroutine (System.Collections.IEnumerator)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors:PreCallAll ()
+(wrapper dynamic-method) Verse.StaticConstructorOnStartupUtility:Verse.StaticConstructorOnStartupUtility.CallAll_Patch2 ()
+Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_3 ()
+BetterLoading.Stage.InitialLoad.StageRunPostLoadPreFinalizeCallbacks/<>c__DisplayClass15_0:<PreExecToExecWhenFinished>b__5 ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[BetterLoading] Finished stage Running Post Content Load Callbacks at 5:27:03 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Starting stage Finalizing Mods.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] One or more mods have Harmony-Postfixed StaticConstructorOnStartupUtility#CallAll. This is likely to cause errors or undesired behavior, as BetterLoading changes this method to be called from another Thread than the UI one. A list of patches follows.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors:BecomeActive ()
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] In addition, when BetterLoading is installed, this postfix will run before any static constructors do, so it likely will not behave as the modder intended anyway.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors:BecomeActive ()
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading]    - static System.Void RecycleThis.StaticConstructorOnStartupUtilityPatch::Postfix()
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors:BecomeActive ()
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Modders: Consider either loading this data on world load, using a regular static constructor but asking your users to put the mod last in the load order, or if it MUST be done now, consider using BetterLoading API to detect the start of StageRunPostFinalizeCallbacks, which fires once static constructors are done.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors:BecomeActive ()
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Players: I'm not interested in this warning, if a mod is breaking, show this message to the person who made that mod, not to me. They can reach out to me if they need assistance.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors:BecomeActive ()
+BetterLoading.LoadingScreen:OnGUI ()
+
+<color=orange>[CSG]</color> Symbols Creator Started.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+KCSG.SymbolDefsCreator:Run ()
+KCSG.SymbolDefsCreator:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+<color=orange>[CSG]</color> Created 13112 symbolDefs for 3 mods. Took 00.03s.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+KCSG.SymbolDefsCreator:Run ()
+KCSG.SymbolDefsCreator:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+[Utility Columns] - Patching...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RimWorldColumns.HarmonyPatches:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Alien race successfully completed 180 patches with harmony.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+AlienRace.HarmonyPatches:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+[Map Preview] Loaded cached true colors for 270 terrain defs from file.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MapPreview.TrueTerrainColors:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Failed inject m_MeshScaler - hair under hats wont work F
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+QuickFast.H_RenderPawn/<DrawHeadgearTranspiler>d__7:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchProcessor:Patch ()
+HarmonyLib.Harmony:Patch (System.Reflection.MethodBase,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod,HarmonyLib.HarmonyMethod)
+QuickFast.bs:ApplyTrans ()
+QuickFast.bs:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Damage Indicators initialized.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Verse.Log:Message (string,bool)
+DamageMotes.DamageMotes_Patch:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Clothing Sorter: Updating 92 apparel categories.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+ClothingSorter.ClothingSorter:SortClothing ()
+ClothingSorter.ClothingSorter:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Sorting by layer, then by None
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+ClothingSorter.ClothingSorter:SortByLayer (System.Collections.Generic.HashSet`1<Verse.ThingDef>,Verse.ThingCategoryDef,ClothingSorter.ClothingSorter/NextSortOption)
+ClothingSorter.ClothingSorter:SortClothing ()
+ClothingSorter.ClothingSorter:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Clothing Sorter: Update done.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+ClothingSorter.ClothingSorter:SortClothing ()
+ClothingSorter.ClothingSorter:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Path Avoid: Adding Harmony Postfix to PawnUtility.GetAvoidGrid()
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+PathAvoid.HarmonyPatches:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Patching Madeline.ModMismatchWindow
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Verse.Log:Message (string,bool)
+ModMisMatchWindowPatch.HarmonyPatches:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Wall Light: v1.3.7890.36463
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MURWallLight.WallLightStartUp:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CM_Prioritize_Research.FloatMenuMakerMap_Patches/FloatMenuMakerMap_AddJobGiverWorkOrders/<Transpiler>d__0:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:ConvertToGeneralInstructions (System.Reflection.MethodInfo,System.Collections.IEnumerable,System.Collections.Generic.Dictionary`2<object, System.Collections.Generic.Dictionary`2<string, object>>&)
+HarmonyLib.CodeTranspiler/<>c__DisplayClass12_0:<GetResult>b__0 (System.Reflection.MethodInfo)
+System.Collections.Generic.List`1<System.Reflection.MethodInfo>:ForEach (System.Action`1<System.Reflection.MethodInfo>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchClassProcessor:ProcessPatchJob (HarmonyLib.PatchJobs`1/Job<System.Reflection.MethodInfo>)
+HarmonyLib.PatchClassProcessor:PatchWithAttributes (System.Reflection.MethodBase&)
+HarmonyLib.PatchClassProcessor:Patch ()
+HarmonyLib.Harmony:<PatchAll>b__10_0 (System.Type)
+HarmonyLib.CollectionExtensions:Do<System.Type> (System.Collections.Generic.IEnumerable`1<System.Type>,System.Action`1<System.Type>)
+HarmonyLib.Harmony:PatchAll (System.Reflection.Assembly)
+HarmonyLib.Harmony:PatchAll ()
+AchtungMod.AchtungLoader:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+[ShowDrafteesWeapon] Initialized
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Verse.Log:Message (string,bool)
+ShowDrafteesWeapon.Logger:LogMessage (string)
+ShowDrafteesWeapon.Main:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+PickUpAndHaul.HarmonyPatches:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to ElectricTailoringBench
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_VCE_MealGourmet2 to ElectricTailoringBench
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to ElectricTailoringBench
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to HandTailoringBench
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_VCE_MealGourmet2 to HandTailoringBench
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to HandTailoringBench
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to ElectricStove
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_VCE_MealGourmet2 to ElectricStove
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to ElectricStove
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to FueledStove
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_VCE_MealGourmet2 to FueledStove
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to FueledStove
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MakeAnythingCraftable.Utils:AddCreatedRecipesFromRecipeUsers (Verse.RecipeDef)
+MakeAnythingCraftable.MakeAnythingCraftableSettings:ApplySettings ()
+MakeAnythingCraftable.Utils:.cctor ()
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+[BetterLoading] Finished stage Finalizing Mods at 5:27:28 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Starting stage Running Post-Finalize Callbacks.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Finished calling static constructors at 5:27:28 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Stage.InitialLoad.StageRunStaticCctors/<StaticConstructAll>d__16:MoveNext ()
+UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+
+[BetterLoading] Processing 5 post-finalize tasks.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Stage.InitialLoad.StageRunPostFinalizeCallbacks:PreExecToExecWhenFinished (System.Collections.Generic.List`1<System.Action>)
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.ExecuteToExecuteWhenFinished_Patch2 ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[BetterLoading] Finished stage Running Post-Finalize Callbacks at 5:27:30 PM.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Starting stage Initializing HugsLib.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+found Stloc_1
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+WhatTheHack.Harmony.Dialog_FormCaravan_TrySend/<Transpiler>d__0:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchClassProcessor:ProcessPatchJob (HarmonyLib.PatchJobs`1/Job<System.Reflection.MethodInfo>)
+HarmonyLib.PatchClassProcessor:PatchWithAttributes (System.Reflection.MethodBase&)
+HarmonyLib.PatchClassProcessor:Patch ()
+HarmonyLib.Harmony:<PatchAll>b__10_0 (System.Type)
+HarmonyLib.CollectionExtensions:Do<System.Type> (System.Collections.Generic.IEnumerable`1<System.Type>,System.Action`1<System.Type>)
+HarmonyLib.Harmony:PatchAll (System.Reflection.Assembly)
+HugsLib.ModBase:ApplyHarmonyPatches ()
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.EnumerateChildMods_Patch1 (HugsLib.HugsLibController,bool)
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CM_Prioritize_Research.FloatMenuMakerMap_Patches/FloatMenuMakerMap_AddJobGiverWorkOrders/<Transpiler>d__0:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:ConvertToGeneralInstructions (System.Reflection.MethodInfo,System.Collections.IEnumerable,System.Collections.Generic.Dictionary`2<object, System.Collections.Generic.Dictionary`2<string, object>>&)
+HarmonyLib.CodeTranspiler/<>c__DisplayClass12_0:<GetResult>b__0 (System.Reflection.MethodInfo)
+System.Collections.Generic.List`1<System.Reflection.MethodInfo>:ForEach (System.Action`1<System.Reflection.MethodInfo>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodPatcher:CreateReplacement (System.Collections.Generic.Dictionary`2<int, HarmonyLib.CodeInstruction>&)
+HarmonyLib.PatchFunctions:UpdateWrapper (System.Reflection.MethodBase,HarmonyLib.PatchInfo)
+HarmonyLib.PatchClassProcessor:ProcessPatchJob (HarmonyLib.PatchJobs`1/Job<System.Reflection.MethodInfo>)
+HarmonyLib.PatchClassProcessor:PatchWithAttributes (System.Reflection.MethodBase&)
+HarmonyLib.PatchClassProcessor:Patch ()
+HarmonyLib.Harmony:<PatchAll>b__10_0 (System.Type)
+HarmonyLib.CollectionExtensions:Do<System.Type> (System.Collections.Generic.IEnumerable`1<System.Type>,System.Action`1<System.Type>)
+HarmonyLib.Harmony:PatchAll (System.Reflection.Assembly)
+HugsLib.ModBase:ApplyHarmonyPatches ()
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.EnumerateChildMods_Patch1 (HugsLib.HugsLibController,bool)
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+# YayoCombat detected
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+yayoAni.core:.cctor ()
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.RuntimeType:CreateInstanceMono (bool)
+System.RuntimeType:CreateInstanceSlow (bool,bool,bool,System.Threading.StackCrawlMark&)
+System.RuntimeType:CreateInstanceDefaultCtor (bool,bool,bool,System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,bool)
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.EnumerateChildMods_Patch1 (HugsLib.HugsLibController,bool)
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[HugsLib] initializing MapReroll, CentralizedClimateControl, MaterialFilter, LessArbitrarySurgery, HeatMap, Hospitality, AlmostThere, RealisticRoomsRewritten, ImprovedWorkbenches, LWM_DeepStorage, SearchAndDestroy, WhatTheHack, YayoCombat3, yayoAni, caravanVisual, MSE2, me.lubar.VanillaBooksExpandedExpanded
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+HugsLib.Utils.ModLogger:Message (string,object[])
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.EnumerateChildMods_Patch1 (HugsLib.HugsLibController,bool)
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[BetterLoading:HugsLib Compat] HugsLib has enumerated child mods, it has found 18 of them.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Compat.HugsLib.StageHugsLibInit:PostEnumerateChildren (object,System.Collections.Generic.Dictionary`2<System.Reflection.Assembly, Verse.ModContentPack>)
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.EnumerateChildMods_Patch1 (HugsLib.HugsLibController,bool)
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[MaterialFilter] Init
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+HugsLib.Utils.ModLogger:Message (string,object[])
+(wrapper dynamic-method) MaterialFilter.MaterialFilter:MaterialFilter.MaterialFilter.Initialize_Patch2 (MaterialFilter.MaterialFilter)
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[MaterialFilter] specialThingFilterDefs generated
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+HugsLib.Utils.ModLogger:Message (string,object[])
+(wrapper dynamic-method) MaterialFilter.MaterialFilter:MaterialFilter.MaterialFilter.DefsLoaded_Patch2 (MaterialFilter.MaterialFilter)
+HugsLib.HugsLibController:OnDefsLoaded ()
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+FactionDef VFEP_Mercenaries must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Vanilla Factions Expanded - Pirates.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Hospitality.Utilities.DefsUtility:LogMisconfiguration (Verse.Def,string)
+Hospitality.Utilities.DefsUtility:CheckFactionDefs ()
+Hospitality.Utilities.DefsUtility:CheckForInvalidDefs ()
+(wrapper dynamic-method) Hospitality.HospitalityModBase:Hospitality.HospitalityModBase.DefsLoaded_Patch2 (Hospitality.HospitalityModBase)
+HugsLib.HugsLibController:OnDefsLoaded ()
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[HugsLib][warn] Missing enum setting labels for enum caravanVisual.core+en_zoomMode
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+HugsLib.Utils.ModLogger:Warning (string,object[])
+HugsLib.Settings.ModSettingsPack:GetHandle<caravanVisual.core/en_zoomMode> (string,string,string,caravanVisual.core/en_zoomMode,HugsLib.Settings.SettingHandle/ValueIsValid,string)
+(wrapper dynamic-method) caravanVisual.core:caravanVisual.core.DefsLoaded_Patch2 (caravanVisual.core)
+HugsLib.HugsLibController:OnDefsLoaded ()
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[MSE2] Some prostheses that have not been patched were detected in mods: Core, Cybernetic Organism and Neural Network, What the hack?!, Vanilla Ideology Expanded - Memes and Structures, Vanilla Genetics Expanded. They will default to vanilla behaviour.
+
+<Denture> from "Core": tongue
+<Trunken_hediff_ElasticAchilles> from "Cybernetic Organism and Neural Network": toe
+<Trunken_hediff_CompressionJaw> from "Cybernetic Organism and Neural Network": tongue
+<WTH_RepairArm> from "What the hack?!": arm, hand, finger, blade
+<VME_FleshcraftedArmHediff> from "Vanilla Ideology Expanded - Memes and Structures": humerus, radius, hand, finger
+<VME_FleshcraftedHandHediff> from "Vanilla Ideology Expanded - Memes and Structures": finger
+<VME_FleshcraftedFootHediff> from "Vanilla Ideology Expanded - Memes and Structures": toe
+<VME_FleshcraftedLegHediff> from "Vanilla Ideology Expanded - Memes and Structures": femur, tibia, foot, toe
+<VME_FleshcraftedJawHediff> from "Vanilla Ideology Expanded - Memes and Structures": tongue
+<GR_BearLeg> from "Vanilla Genetics Expanded": paw, foot, femur, tibia, toe, hoof, front claw, rear claw
+<GR_LizardLeg> from "Vanilla Genetics Expanded": paw, foot, femur, tibia, toe, hoof, front claw, rear claw
+<GR_ThrumboLeg> from "Vanilla Genetics Expanded": paw, foot, femur, tibia, toe, hoof, front claw, rear claw
+<GR_RodentNose> from "Vanilla Genetics Expanded": horn
+<GR_InsectoidPheromones> from "Vanilla Genetics Expanded": horn
+<GR_MiniatureThrumboHorn> from "Vanilla Genetics Expanded": horn
+<GR_WolfJaws> from "Vanilla Genetics Expanded": tusk, fangs
+<GR_InsectMandibles> from "Vanilla Genetics Expanded": tusk, fangs
+<GR_ThrumboJaws> from "Vanilla Genetics Expanded": tusk, fangs
+<GR_BearClaws> from "Vanilla Genetics Expanded": finger
+<GR_DiggingBearClaws> from "Vanilla Genetics Expanded": finger
+<GR_VenomousFangs> from "Vanilla Genetics Expanded": tongue
+
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MSE2.IgnoreSubPartsUtilities:IgnoreAllNonCompedSubparts ()
+(wrapper dynamic-method) MSE2.MedicalSystemExpansion:MSE2.MedicalSystemExpansion.DefsLoaded_Patch2 (MSE2.MedicalSystemExpansion)
+HugsLib.HugsLibController:OnDefsLoaded ()
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[MSE2] Ignoring unsupported sub-parts:
+SimpleProstheticArm: Clavicle
+SimpleProstheticForearm: Humerus, Radius
+SimpleProstheticLeg: Femur, Tibia
+
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+MSE2.IgnoreSubPartsUtilities:IgnoreUnsupportedSubparts ()
+(wrapper dynamic-method) MSE2.MedicalSystemExpansion:MSE2.MedicalSystemExpansion.DefsLoaded_Patch2 (MSE2.MedicalSystemExpansion)
+HugsLib.HugsLibController:OnDefsLoaded ()
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[BetterLoading:HugsLib Compat] HugsLib has Loaded, Reloaded, and Initialized. Marking as done.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Compat.HugsLib.StageHugsLibInit:PostLRI ()
+(wrapper dynamic-method) HugsLib.HugsLibController:HugsLib.HugsLibController.LoadReloadInitialize_Patch1 (HugsLib.HugsLibController)
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+[BetterLoading] Finished processing load list, hiding.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.LoadingScreen:OnGUI ()
+
+[BetterLoading] Game load has finished. Timing data follows:
+Spent 31752.9138ms reading, building, and patching XML tree.
+Spent 27276.8815ms turning XML into def instances.
+Spent 129509.246ms resolving cross-references and running post-load, pre-finalize callbacks.
+Spent 50006.1594ms running static constructors (initializing mods).
+Spent -63787559250570.5ms running post-finalize callbacks.
+In total, spent 241920.1172ms launching the game.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+(wrapper dynamic-method) BetterLoading.BetterLoadingMain:BetterLoading.BetterLoadingMain.CreateTimingReport_Patch1 (BetterLoading.BetterLoadingMain)
+BetterLoading.BetterLoadingApi:DispatchLoadComplete ()
+BetterLoading.LoadingScreen:OnGUI ()
+
+[Best Mix] was applied to 57 work bench(es).
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BestMix.BestMix_Initializer:Setup ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+Verse.Root_Entry:Update ()
+
+[BetterLoading] Obtained lock, assuming we're done with post-finalize.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+BetterLoading.Stage.InitialLoad.StageRunPostFinalizeCallbacks/<>c:<PreExecToExecWhenFinished>b__15_3 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Failed inject m_MeshScaler - hair under hats wont work F
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+QuickFast.H_RenderPawn/<DrawHeadgearTranspiler>d__7:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:GetInstructions (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase,int)
+HarmonyLib.PatchProcessor:GetCurrentInstructions (System.Reflection.MethodBase,int,System.Reflection.Emit.ILGenerator)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseMethod (System.Reflection.MethodInfo)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseEverything ()
+PerformanceOptimizer.Optimization_FasterGetCompReplacement/<>c__DisplayClass27_0:<DoPatchesAsync>b__0 ()
+System.Threading.Tasks.Task:InnerInvoke ()
+System.Threading.Tasks.Task:Execute ()
+System.Threading.Tasks.Task:ExecutionContextCallback (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal (System.Threading.Tasks.Task&)
+System.Threading.Tasks.Task:ExecuteEntry (bool)
+System.Threading.Tasks.Task:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
+System.Threading.ThreadPoolWorkQueue:Dispatch ()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+found Stloc_1
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+WhatTheHack.Harmony.Dialog_FormCaravan_TrySend/<Transpiler>d__0:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:GetInstructions (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase,int)
+HarmonyLib.PatchProcessor:GetCurrentInstructions (System.Reflection.MethodBase,int,System.Reflection.Emit.ILGenerator)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseMethod (System.Reflection.MethodInfo)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseEverything ()
+PerformanceOptimizer.Optimization_FasterGetCompReplacement/<>c__DisplayClass27_0:<DoPatchesAsync>b__0 ()
+System.Threading.Tasks.Task:InnerInvoke ()
+System.Threading.Tasks.Task:Execute ()
+System.Threading.Tasks.Task:ExecutionContextCallback (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal (System.Threading.Tasks.Task&)
+System.Threading.Tasks.Task:ExecuteEntry (bool)
+System.Threading.Tasks.Task:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
+System.Threading.ThreadPoolWorkQueue:Dispatch ()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CM_Prioritize_Research.FloatMenuMakerMap_Patches/FloatMenuMakerMap_AddJobGiverWorkOrders/<Transpiler>d__0:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:ConvertToGeneralInstructions (System.Reflection.MethodInfo,System.Collections.IEnumerable,System.Collections.Generic.Dictionary`2<object, System.Collections.Generic.Dictionary`2<string, object>>&)
+HarmonyLib.CodeTranspiler/<>c__DisplayClass12_0:<GetResult>b__0 (System.Reflection.MethodInfo)
+System.Collections.Generic.List`1<System.Reflection.MethodInfo>:ForEach (System.Action`1<System.Reflection.MethodInfo>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:GetInstructions (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase,int)
+HarmonyLib.PatchProcessor:GetCurrentInstructions (System.Reflection.MethodBase,int,System.Reflection.Emit.ILGenerator)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseMethod (System.Reflection.MethodInfo)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseEverything ()
+PerformanceOptimizer.Optimization_FasterGetCompReplacement/<>c__DisplayClass27_0:<DoPatchesAsync>b__0 ()
+System.Threading.Tasks.Task:InnerInvoke ()
+System.Threading.Tasks.Task:Execute ()
+System.Threading.Tasks.Task:ExecutionContextCallback (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal (System.Threading.Tasks.Task&)
+System.Threading.Tasks.Task:ExecuteEntry (bool)
+System.Threading.Tasks.Task:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
+System.Threading.ThreadPoolWorkQueue:Dispatch ()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[CM_Semi_Random_Research] - patching to conditionally hide normal start research button.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+CM_Semi_Random_Research.MainTabWindow_Research_Patches/MainTabWindow_Research_DrawLeftRect/<Transpiler>d__0:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:GetInstructions (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase,int)
+HarmonyLib.PatchProcessor:GetCurrentInstructions (System.Reflection.MethodBase,int,System.Reflection.Emit.ILGenerator)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseMethod (System.Reflection.MethodInfo)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseEverything ()
+PerformanceOptimizer.Optimization_FasterGetCompReplacement/<>c__DisplayClass27_0:<DoPatchesAsync>b__0 ()
+System.Threading.Tasks.Task:InnerInvoke ()
+System.Threading.Tasks.Task:Execute ()
+System.Threading.Tasks.Task:ExecutionContextCallback (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal (System.Threading.Tasks.Task&)
+System.Threading.Tasks.Task:ExecuteEntry (bool)
+System.Threading.Tasks.Task:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
+System.Threading.ThreadPoolWorkQueue:Dispatch ()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+Loading game from file Order of Infinite Oness with mods:
+  - brrainz.harmony
+  - me.samboycoding.betterloading
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Dubwise.DubsPerformanceAnalyzer
+  - Fluffy.ModManager
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - xelnigma.psyeltex
+  - xelnigma.psypsychitetea
+  - PureMJ.MjRimMods.VanillaFixHaulAfterSlaughter
+  - VanillaExpanded.VFEFarming
+  - LWM.RestrictedStorage
+  - UnlimitedHugs.HugsLib
+  - Uuugggg.TDPack
+  - automatic.traderships
+  - UnlimitedHugs.MapReroll
+  - UnlimitedHugs.AllowTool
+  - Terrasecurity
+  - Mlie.CentralizedClimateControl
+  - KamiKatze.MaterialFilter
+  - nephlite.orbitaltradecolumn
+  - Uuugggg.SmartMedicine
+  - erdelf.HumanoidAlienRaces
+  - neronix17.toolbox
+  - erin.decorations
+  - theeyeofbrows.fluffybreakdowns
+  - Mlie.LessArbitrarySurgery
+  - Dark.JobInBar
+  - Vanya.Tools.IncidentPersonStat
+  - Jaxe.Bubbles
+  - automatic.gunplay
+  - m00nl1ght.MapPreview
+  - falconne.HeatMap
+  - Neronix17.Retexture.VanillaHair
+  - Orion.Hospitality
+  - CaptainMuscles.PrioritizeResearch
+  - Dubwise.DubsApparelTweaks
+  - Dubwise.Rimatomics
+  - Dubwise.DubsPaintShop
+  - dubwise.dubsmintminimap
+  - Dubwise.DubsMintMenus
+  - Dubwise.DubsBreakMod
+  - tikubonn.DontBlockDoor
+  - SteelChicken.DevilstrandHydroponics
+  - Fluffy.Blueprints
+  - CaptainMuscles.Callouts
+  - Mlie.ConvertThenRecruit
+  - CaesarV6.DamageIndicators
+  - Mlie.ClothingSorter
+  - kikohi.cybernetic
+  - Owlchemist.CleanPathfinding
+  - azuraal.choiceofpsycasts
+  - CaptainMuscles.ChillOut
+  - arof.BuildFromInventoryForked
+  - automatic.bionicicons
+  - roolo.AlmostThere
+  - Taranchuk.PerformanceOptimizer
+  - Owlchemist.PerspectiveBuildings
+  - Uuugggg.ReplaceStuff
+  - rimfridge.kv.rw
+  - Owlchemist.PerspectiveTrees
+  - Mlie.RelevantStatsInDescription
+  - AveryTheKitty.RefinedFloors
+  - automatic.recipeicons
+  - Lucifer.RealisticRooms
+  - brrainz.rangefinder
+  - Fluffy.Pharmacist
+  - OskarPotocki.VanillaExpanded.IdeologyPatches
+  - Mlie.PrisonersShouldFearTurrets
+  - pathavoid.kv.rw
+  - Madeline.ModMismatchFormatter
+  - Haecriver.OutfitCopy
+  - falconne.BWM
+  - Murmur.PawnNameVariety
+  - weilbyte.snapout
+  - JBloodthorn.NoLazyDoctors
+  - Supes.ParallelPowerGrid
+  - moretraitslots.kv.rw
+  - machine.betterinfestations
+  - Rax.MorphGun
+  - VanillaExpanded.VFESecurity
+  - ben.automaticnightowl
+  - LWM.DeepStorage
+  - VanillaExpanded.VFECore
+  - OskarPotocki.VFE.Pirates
+  - VanillaExpanded.VFEArchitect
+  - VanillaExpanded.Ideo.IconsandSymbols
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VHE
+  - VanillaExpanded.VFESpacer
+  - VanillaExpanded.VFEPropsandDecor
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEArt
+  - OskarPotocki.VanillaExpanded.RoyaltyPatches
+  - VanillaExpanded.VFEA
+  - Mlie.RoadsOfTheRim
+  - VanillaExpanded.VCEF
+  - Supes.SelectedReconnector
+  - VanillaExpanded.VCookESushi
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.Ideo.RelicsAndArtifacts
+  - vanillaexpanded.outposts
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VanillaTraitsExpanded
+  - twistedpacifist.ReasonableComponents
+  - roolo.SearchAndDestroy
+  - FrozenSnowFox.NoDefaultShelfStorage
+  - FrozenSnowFox.EfficientUtilities
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VAECD
+  - Neronix17.SubpersonaShells
+  - Fluffy.WorkTab
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VWEL
+  - VanillaExpanded.VWEHW
+  - legodude17.heavyweaponsreloading
+  - roolo.whatthehack
+  - bodlosh.WeaponStats
+  - Murmur.WallLight
+  - Mlie.AnimalHarvestingSpot
+  - 22.Virtue.Frame
+  - JangoDsoul.SimpleStorage
+  - tikubonn.StuffedDoll
+  - brrainz.achtung
+  - MrChimick.TooManyAreas
+  - legodude17.smartdecon
+  - hobtook.tradeui
+  - tidal.morevanilla.textures
+  - dhultgren.smarterconstruction
+  - denev.SmartTurretCovering
+  - SaucyPigeon.PawnBadge
+  - avilmask.SelfDyeing
+  - Dark.Signs
+  - syrchalis.setupcamp
+  - targhetti.ShowDrafteesWeapon
+  - CaptainMuscles.SemiRandomResearch
+  - com.yayo.combat3
+  - Dra.YayoCombatWarcaskets
+  - com.yayo.yayoAni
+  - PeteTimesSix.SimpleSidearms
+  - com.yayo.caravanVisual
+  - Sixdd.LittleStorage2
+  - Mehni.PickUpAndHaul
+  - Fluffy.FollowMe
+  - OskarPotocki.VFE.Mechanoid
+  - khamenman.armorracks
+  - Sk.WeaponMastery
+  - MSE2.Core
+  - VanillaExpanded.VMemesE
+  - purpleyam.moreideologicalwords
+  - PureMJ.MjRimMods.VanillaFix_MortarShellLoading
+  - Sarg.AlphaMemes
+  - MrKociak.BIECombatDrones
+  - visibleraidpoints.1trickPonyta
+  - pb3n.SimpleWarrants
+  - Yoann.BalancedFloorsMarketValue
+  - Mlie.BetterMessagePlacement
+  - me.lubar.VanillaBooksExpandedExpanded
+  - Mlie.PlasteelSurgery
+  - Mlie.PSReconditioningPod
+  - calamabanana.breachableembrasures
+  - Garethp.ReplaceStuffCompatibility
+  - DerekBickley.LTOColonyGroupsFinal
+  - Oken.RebalancedDeepStorage
+  - VanillaExpanded.VGeneticsE
+  - catachat.inspirationtweaks
+  - xelnigma.miniturretbuff
+  - bustedbunny.recylethis
+  - VanillaExpanded.VTEXVariations
+  - Shenanigans.TechTattoos
+  - Krkr.RocketMan
+  - aRandomKiwi.KillForMe
+  - Mlie.BestMix
+  - Scorpio.MakeAnythingCraftable
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+(wrapper dynamic-method) Verse.SavedGameLoaderNow:Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch2 (string)
+Verse.Root_Play/<>c:<Start>b__1_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+ROCKETMAN: Hijacking ([REFLECTED] RimWorld.StatWorker:GetValue, [DECLARING] RimWorld.StatWorker:GetValue, [ISSTATIC] False, [ISPUBLIC] False, [ISVIRTUAL] StatWorker, [ABSTRACT] False)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.Optimizations.StatWorker_Patch:Transpiler (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>,System.Reflection.MethodBase)
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+HarmonyLib.CodeTranspiler/<>c__DisplayClass12_0:<GetResult>b__0 (System.Reflection.MethodInfo)
+System.Collections.Generic.List`1<System.Reflection.MethodInfo>:ForEach (System.Action`1<System.Reflection.MethodInfo>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:GetInstructions (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase,int)
+HarmonyLib.PatchProcessor:GetCurrentInstructions (System.Reflection.MethodBase,int,System.Reflection.Emit.ILGenerator)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseMethod (System.Reflection.MethodInfo)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseEverything ()
+PerformanceOptimizer.Optimization_FasterGetCompReplacement/<>c__DisplayClass27_0:<DoPatchesAsync>b__0 ()
+System.Threading.Tasks.Task:InnerInvoke ()
+System.Threading.Tasks.Task:Execute ()
+System.Threading.Tasks.Task:ExecutionContextCallback (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal (System.Threading.Tasks.Task&)
+System.Threading.Tasks.Task:ExecuteEntry (bool)
+System.Threading.Tasks.Task:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
+System.Threading.ThreadPoolWorkQueue:Dispatch ()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[BetterLoading] Not showing game load/save screen because we've detected what we believe to be a multiplayer mod: Multiplayer
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+BetterLoading.BetterLoadingMain:OnGameLoadStart ()
+(wrapper dynamic-method) Verse.Game:Verse.Game.LoadGame_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.SavedGameLoaderNow:Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch2 (string)
+Verse.Root_Play/<>c:<Start>b__1_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+PROTON: Analyzer patched!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Proton.Analyzer_H_AlertsReadoutUpdate_Patch/<Transpiler>d__2:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:GetInstructions (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase,int)
+HarmonyLib.PatchProcessor:GetCurrentInstructions (System.Reflection.MethodBase,int,System.Reflection.Emit.ILGenerator)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseMethod (System.Reflection.MethodInfo)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseEverything ()
+PerformanceOptimizer.Optimization_FasterGetCompReplacement/<>c__DisplayClass27_0:<DoPatchesAsync>b__0 ()
+System.Threading.Tasks.Task:InnerInvoke ()
+System.Threading.Tasks.Task:Execute ()
+System.Threading.Tasks.Task:ExecutionContextCallback (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal (System.Threading.Tasks.Task&)
+System.Threading.Tasks.Task:ExecuteEntry (bool)
+System.Threading.Tasks.Task:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
+System.Threading.ThreadPoolWorkQueue:Dispatch ()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[Yayo's Combat Warcaskets] - Found method to patch
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+YayoCombatWarcaskets.HarmonyPatches/PatchWarcasketDurability/<Transpiler>d__3:MoveNext ()
+System.Collections.Generic.List`1<HarmonyLib.CodeInstruction>:.ctor (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+System.Linq.Enumerable:ToList<HarmonyLib.CodeInstruction> (System.Collections.Generic.IEnumerable`1<HarmonyLib.CodeInstruction>)
+HarmonyLib.CodeTranspiler:GetResult (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase)
+HarmonyLib.MethodBodyReader:FinalizeILCodes (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.MethodInfo>,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:Finalize (HarmonyLib.Emitter,System.Collections.Generic.List`1<System.Reflection.Emit.Label>,bool&)
+HarmonyLib.MethodCopier:GetInstructions (System.Reflection.Emit.ILGenerator,System.Reflection.MethodBase,int)
+HarmonyLib.PatchProcessor:GetCurrentInstructions (System.Reflection.MethodBase,int,System.Reflection.Emit.ILGenerator)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseMethod (System.Reflection.MethodInfo)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement:ParseEverything ()
+PerformanceOptimizer.Optimization_FasterGetCompReplacement/<>c__DisplayClass27_0:<DoPatchesAsync>b__0 ()
+System.Threading.Tasks.Task:InnerInvoke ()
+System.Threading.Tasks.Task:Execute ()
+System.Threading.Tasks.Task:ExecutionContextCallback (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal (System.Threading.Tasks.Task&)
+System.Threading.Tasks.Task:ExecuteEntry (bool)
+System.Threading.Tasks.Task:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
+System.Threading.ThreadPoolWorkQueue:Dispatch ()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+Achtung v3.4.4.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+AchtungMod.World_FinalizeInit_Patch:Prefix ()
+(wrapper dynamic-method) RimWorld.Planet.World:RimWorld.Planet.World.FinalizeInit_Patch2 (RimWorld.Planet.World)
+(wrapper dynamic-method) Verse.Game:Verse.Game.LoadGame_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.SavedGameLoaderNow:Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch2 (string)
+Verse.Root_Play/<>c:<Start>b__1_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.WarmUpMapComponent:Initialize ()
+RocketMan.WarmUpMapComponent:.ctor (Verse.Map)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+(wrapper dynamic-method) Verse.Map:Verse.Map.FillComponents_Patch1 (Verse.Map)
+(wrapper dynamic-method) Verse.Map:Verse.Map.ConstructComponents_Patch2 (Verse.Map)
+(wrapper dynamic-method) Verse.Map:Verse.Map.ExposeData_Patch3 (Verse.Map)
+Verse.ScribeExtractor:SaveableFromNode<Verse.Map> (System.Xml.XmlNode,object[])
+Verse.Scribe_Collections:Look<Verse.Map> (System.Collections.Generic.List`1<Verse.Map>&,bool,string,Verse.LookMode,object[])
+Verse.Scribe_Collections:Look<Verse.Map> (System.Collections.Generic.List`1<Verse.Map>&,string,Verse.LookMode,object[])
+(wrapper dynamic-method) Verse.Game:Verse.Game.LoadGame_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.SavedGameLoaderNow:Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch2 (string)
+Verse.Root_Play/<>c:<Start>b__1_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.WarmUpMapComponent:AbortWarmUp ()
+RocketMan.WarmUpMapComponent:.ctor (Verse.Map)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.ScribeExtractor:SaveableFromNode<Verse.MapComponent> (System.Xml.XmlNode,object[])
+Verse.Scribe_Collections:Look<Verse.MapComponent> (System.Collections.Generic.List`1<Verse.MapComponent>&,bool,string,Verse.LookMode,object[])
+Verse.Scribe_Collections:Look<Verse.MapComponent> (System.Collections.Generic.List`1<Verse.MapComponent>&,string,Verse.LookMode,object[])
+(wrapper dynamic-method) Verse.Map:Verse.Map.ExposeComponents_Patch1 (Verse.Map)
+(wrapper dynamic-method) Verse.Map:Verse.Map.ExposeData_Patch3 (Verse.Map)
+Verse.ScribeExtractor:SaveableFromNode<Verse.Map> (System.Xml.XmlNode,object[])
+Verse.Scribe_Collections:Look<Verse.Map> (System.Collections.Generic.List`1<Verse.Map>&,bool,string,Verse.LookMode,object[])
+Verse.Scribe_Collections:Look<Verse.Map> (System.Collections.Generic.List`1<Verse.Map>&,string,Verse.LookMode,object[])
+(wrapper dynamic-method) Verse.Game:Verse.Game.LoadGame_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.SavedGameLoaderNow:Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch2 (string)
+Verse.Root_Play/<>c:<Start>b__1_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.WarmUpMapComponent:Initialize ()
+RocketMan.WarmUpMapComponent:.ctor (Verse.Map)
+System.Reflection.MonoCMethod:InternalInvoke (object,object[])
+System.Reflection.MonoCMethod:DoInvoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MonoCMethod:Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.RuntimeType:CreateInstanceImpl (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[],System.Threading.StackCrawlMark&)
+System.Activator:CreateInstance (System.Type,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo,object[])
+(wrapper dynamic-method) System.Activator:System.Activator.CreateInstance_Patch1 (System.Type,object[])
+Verse.ScribeExtractor:SaveableFromNode<Verse.MapComponent> (System.Xml.XmlNode,object[])
+Verse.Scribe_Collections:Look<Verse.MapComponent> (System.Collections.Generic.List`1<Verse.MapComponent>&,bool,string,Verse.LookMode,object[])
+Verse.Scribe_Collections:Look<Verse.MapComponent> (System.Collections.Generic.List`1<Verse.MapComponent>&,string,Verse.LookMode,object[])
+(wrapper dynamic-method) Verse.Map:Verse.Map.ExposeComponents_Patch1 (Verse.Map)
+(wrapper dynamic-method) Verse.Map:Verse.Map.ExposeData_Patch3 (Verse.Map)
+Verse.ScribeExtractor:SaveableFromNode<Verse.Map> (System.Xml.XmlNode,object[])
+Verse.Scribe_Collections:Look<Verse.Map> (System.Collections.Generic.List`1<Verse.Map>&,bool,string,Verse.LookMode,object[])
+Verse.Scribe_Collections:Look<Verse.Map> (System.Collections.Generic.List`1<Verse.Map>&,string,Verse.LookMode,object[])
+(wrapper dynamic-method) Verse.Game:Verse.Game.LoadGame_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.SavedGameLoaderNow:Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch2 (string)
+Verse.Root_Play/<>c:<Start>b__1_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+Transpiled 1968 methods, it took: 10.81866
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+PerformanceOptimizer.Optimization_FasterGetCompReplacement/<DoPatchesAsync>d__27:MoveNext ()
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:InvokeMoveNext (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:Run ()
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation/<>c:<.cctor>b__7_0 (object)
+UnityEngine.UnitySynchronizationContext/WorkRequest:Invoke ()
+UnityEngine.UnitySynchronizationContext:Exec ()
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+Cleaned up 41 deprecated records from What the Hack!?
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+WhatTheHack.Storage.ExtendedDataStorage:Cleanup ()
+(wrapper dynamic-method) WhatTheHack.Base:WhatTheHack.Base.WorldLoaded_Patch0 (WhatTheHack.Base)
+HugsLib.HugsLibController:OnPlayingStateEntered ()
+HugsLib.Patches.Game_FinalizeInit_Patch:WorldLoadedHook ()
+(wrapper dynamic-method) Verse.Game:Verse.Game.FinalizeInit_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.Game:Verse.Game.LoadGame_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.SavedGameLoaderNow:Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch2 (string)
+Verse.Root_Play/<>c:<Start>b__1_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+GC : animation data count [0 -> 0]
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+yayoAni.dataUtility:reset ()
+yayoAni.core:WorldLoaded ()
+HugsLib.HugsLibController:OnPlayingStateEntered ()
+HugsLib.Patches.Game_FinalizeInit_Patch:WorldLoadedHook ()
+(wrapper dynamic-method) Verse.Game:Verse.Game.FinalizeInit_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.Game:Verse.Game.LoadGame_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.SavedGameLoaderNow:Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch2 (string)
+Verse.Root_Play/<>c:<Start>b__1_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+SOYUZ: Preset loaded!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Soyuz.SoyuzSettingsUtility:SetRecommendedJobConfig ()
+System.Reflection.MonoMethod:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+RocketMan.FunctionsUtility/<>c__DisplayClass1_0`1<RocketMan.Main/OnWorldLoaded>:<GetActions>b__3 ()
+RocketMan.Main:WorldLoaded ()
+RocketMan.Patches.Game_FinalizeInit_Patch:Postfix ()
+(wrapper dynamic-method) Verse.Game:Verse.Game.FinalizeInit_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.Game:Verse.Game.LoadGame_Patch4 (Verse.Game)
+(wrapper dynamic-method) Verse.SavedGameLoaderNow:Verse.SavedGameLoaderNow.LoadGameFromSaveFileNow_Patch2 (string)
+Verse.Root_Play/<>c:<Start>b__1_1 ()
+Verse.LongEventHandler:RunEventFromAnotherThread (System.Action)
+Verse.LongEventHandler/<>c:<UpdateCurrentAsynchronousEvent>b__27_0 ()
+System.Threading.ThreadHelper:ThreadStart_Context (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object)
+System.Threading.ThreadHelper:ThreadStart ()
+
+The variations mod has probably been added to a running save. Ignoring load error.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+VanillaFurnitureExpanded.CompRandomBuildingGraphic:ChangeGraphic ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.ExecuteToExecuteWhenFinished_Patch2 ()
+Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+(wrapper dynamic-method) Verse.Root_Play:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+
+[Analyzer] Loaded version 1.1.2 rev 3
+Analyzer.Modbase:.ctor(ModContentPack)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Reflection.MonoCMethod:DoInvoke(Object, BindingFlags, Binder, Object[], CultureInfo)
+System.Reflection.MonoCMethod:Invoke(BindingFlags, Binder, Object[], CultureInfo)
+System.RuntimeType:CreateInstanceImpl(BindingFlags, Binder, Object[], CultureInfo, Object[], StackCrawlMark&)
+System.Activator:CreateInstance(Type, BindingFlags, Binder, Object[], CultureInfo, Object[])
+System.Activator:System.Activator.CreateInstance_Patch1(Type, Object[])
+Verse.LoadedModManager:CreateModClasses()
+Verse.LoadedModManager:LoadAllActiveMods()
+Verse.PlayDataLoader:DoPlayLoad()
+Verse.PlayDataLoader:LoadAllPlayData(Boolean)
+Verse.<>c:<Start>b__6_1()
+Verse.LongEventHandler:RunEventFromAnotherThread(Action)
+Verse.<>c:<UpdateCurrentAsynchronousEvent>b__27_0()
+System.Threading.ThreadHelper:ThreadStart_Context(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+System.Threading.ThreadHelper:ThreadStart()
+
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.WarmUpMapComponent:MapComponentTick ()
+Verse.MapComponentUtility:MapComponentTick (Verse.Map)
+Verse.Map:MapPostTick ()
+(wrapper dynamic-method) Verse.TickManager:Verse.TickManager.DoSingleTick_Patch3 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+(wrapper dynamic-method) Verse.Game:Verse.Game.UpdatePlay_Patch1 (Verse.Game)
+(wrapper dynamic-method) Verse.Root_Play:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+
+ROCKETMAN: Position verfication started!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+RocketMan.WarmUpMapComponent:MapComponentTick ()
+Verse.MapComponentUtility:MapComponentTick (Verse.Map)
+Verse.Map:MapPostTick ()
+(wrapper dynamic-method) Verse.TickManager:Verse.TickManager.DoSingleTick_Patch3 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+(wrapper dynamic-method) Verse.Game:Verse.Game.UpdatePlay_Patch1 (Verse.Game)
+(wrapper dynamic-method) Verse.Root_Play:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+
+GC : animation data count [118 -> 42]
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+yayoAni.dataUtility:GC ()
+yayoAni.core:Tick (int)
+HugsLib.HugsLibController:OnTick ()
+HugsLib.Core.HugsTickProxy:Tick ()
+(wrapper dynamic-method) Verse.TickList:Verse.TickList.Tick_Patch2 (Verse.TickList)
+(wrapper dynamic-method) Verse.TickManager:Verse.TickManager.DoSingleTick_Patch3 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+(wrapper dynamic-method) Verse.Game:Verse.Game.UpdatePlay_Patch1 (Verse.Game)
+(wrapper dynamic-method) Verse.Root_Play:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+
+Invalid count: -30, setting to 1. Job was HaulToInventory (Job_43660584) A=Thing_WoodLog8470364 B=(104, 0, 190)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) Verse.Log:Verse.Log.Error_Patch4 (string)
+Verse.AI.Toils_Haul:ErrorCheckForCarry (Verse.Pawn,Verse.Thing)
+PickUpAndHaul.JobDriver_HaulToInventory/<>c__DisplayClass1_0:<MakeNewToils>b__2 ()
+Verse.AI.JobDriver:TryActuallyStartNextToil ()
+Verse.AI.JobDriver:ReadyForNextToil ()
+Verse.AI.JobDriver:Notify_PatherArrived ()
+Verse.AI.Pawn_PathFollower:PatherArrived ()
+(wrapper dynamic-method) Verse.AI.Pawn_PathFollower:Verse.AI.Pawn_PathFollower.TryEnterNextPathCell_Patch2 (Verse.AI.Pawn_PathFollower)
+(wrapper dynamic-method) Verse.AI.Pawn_PathFollower:Verse.AI.Pawn_PathFollower.PatherTick_Patch3 (Verse.AI.Pawn_PathFollower)
+(wrapper dynamic-method) Verse.Pawn:Verse.Pawn.Tick_Patch3 (Verse.Pawn)
+(wrapper dynamic-method) Verse.TickList:Verse.TickList.Tick_Patch2 (Verse.TickList)
+(wrapper dynamic-method) Verse.TickManager:Verse.TickManager.DoSingleTick_Patch3 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+(wrapper dynamic-method) Verse.Game:Verse.Game.UpdatePlay_Patch1 (Verse.Game)
+(wrapper dynamic-method) Verse.Root_Play:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+
+Guest group arrived, but there are no guest beds and the player asked to wait until they are built.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Message (string)
+Hospitality.IncidentWorker_VisitorGroup:TryExecuteWorker (RimWorld.IncidentParms)
+(wrapper dynamic-method) RimWorld.IncidentWorker:RimWorld.IncidentWorker.TryExecute_Patch1 (RimWorld.IncidentWorker,RimWorld.IncidentParms)
+(wrapper dynamic-method) RimWorld.Storyteller:RimWorld.Storyteller.TryFire_Patch1 (RimWorld.Storyteller,RimWorld.FiringIncident)
+RimWorld.IncidentQueue:IncidentQueueTick ()
+Hospitality.Hospitality_MapComponent:MapComponentTick ()
+Verse.MapComponentUtility:MapComponentTick (Verse.Map)
+Verse.Map:MapPostTick ()
+(wrapper dynamic-method) Verse.TickManager:Verse.TickManager.DoSingleTick_Patch3 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+(wrapper dynamic-method) Verse.Game:Verse.Game.UpdatePlay_Patch1 (Verse.Game)
+(wrapper dynamic-method) Verse.Root_Play:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+
+Deep-saving destroyed thing Shuttle162574 with saveDestroyedThings==false. label=shipThing
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Verse.Scribe_Deep:Look<Verse.Thing> (Verse.Thing&,bool,string,object[])
+Verse.Scribe_Deep:Look<Verse.Thing> (Verse.Thing&,string,object[])
+RimWorld.TransportShip:ExposeData ()
+Verse.Scribe_Deep:Look<RimWorld.TransportShip> (RimWorld.TransportShip&,bool,string,object[])
+Verse.Scribe_Collections:Look<RimWorld.TransportShip> (System.Collections.Generic.List`1<RimWorld.TransportShip>&,bool,string,Verse.LookMode,object[])
+Verse.Scribe_Collections:Look<RimWorld.TransportShip> (System.Collections.Generic.List`1<RimWorld.TransportShip>&,string,Verse.LookMode,object[])
+RimWorld.TransportShipManager:ExposeData ()
+Verse.Scribe_Deep:Look<RimWorld.TransportShipManager> (RimWorld.TransportShipManager&,bool,string,object[])
+Verse.Scribe_Deep:Look<RimWorld.TransportShipManager> (RimWorld.TransportShipManager&,string,object[])
+Verse.Game:ExposeSmallComponents ()
+Verse.Game:ExposeData ()
+Verse.Scribe_Deep:Look<Verse.Game> (Verse.Game&,bool,string,object[])
+Verse.Scribe_Deep:Look<Verse.Game> (Verse.Game&,string,object[])
+Verse.GameDataSaveLoader/<>c:<SaveGame>b__20_0 ()
+Verse.SafeSaver:DoSave (string,string,System.Action)
+Verse.SafeSaver:Save (string,string,System.Action,bool)
+(wrapper dynamic-method) Verse.GameDataSaveLoader:Verse.GameDataSaveLoader.SaveGame_Patch2 (string)
+RimWorld.Autosaver:DoAutosave ()
+(wrapper dynamic-method) Verse.LongEventHandler:Verse.LongEventHandler.UpdateCurrentSynchronousEvent_Patch2 (bool&)
+Verse.LongEventHandler:LongEventsUpdate (bool&)
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+(wrapper dynamic-method) Verse.Root_Play:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+
+Getting random element from empty collection.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Verse.Log:Warning (string)
+Verse.GenCollection:RandomElement<SK_WeaponMastery.MasteryStat> (System.Collections.Generic.IEnumerable`1<SK_WeaponMastery.MasteryStat>)
+SK_WeaponMastery.ModSettings:PickBonus (bool)
+(wrapper dynamic-method) SK_WeaponMastery.Core:SK_WeaponMastery.Core.GenerateMasteriesForPawns_Patch0 (System.Collections.Generic.List`1<Verse.Pawn>)
+SK_WeaponMastery.Core:OnNeutralPawnSpawn (RimWorld.IncidentWorker_NeutralGroup,RimWorld.IncidentParms,System.Collections.Generic.List`1<Verse.Pawn>&)
+(wrapper dynamic-method) RimWorld.IncidentWorker_NeutralGroup:RimWorld.IncidentWorker_NeutralGroup.SpawnPawns_Patch1 (RimWorld.IncidentWorker_NeutralGroup,RimWorld.IncidentParms)
+RimWorld.IncidentWorker_TraderCaravanArrival:TryExecuteWorker (RimWorld.IncidentParms)
+(wrapper dynamic-method) RimWorld.IncidentWorker:RimWorld.IncidentWorker.TryExecute_Patch1 (RimWorld.IncidentWorker,RimWorld.IncidentParms)
+Verse.DebugActionsIncidents/<>c__DisplayClass8_1:<DoIncidentDebugAction>b__2 ()
+Verse.Dialog_DebugOptionLister:DebugAction (string,System.Action,bool)
+Verse.Dialog_DebugOptionListLister:DoListingItems ()
+Verse.Dialog_OptionLister:DoWindowContents (UnityEngine.Rect)
+Verse.Window:InnerWindowOnGUI (int)
+UnityEngine.GUI:CallWindowDelegate (UnityEngine.GUI/WindowFunction,int,int,UnityEngine.GUISkin,int,single,single,UnityEngine.GUIStyle)
+
+Exception filling window for Verse.Dialog_DebugOptionListLister: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SK_WeaponMastery.MasteryWeaponComp.SetLevel (Verse.Pawn pawn, System.Int32 level) [0x00001] in <7d23fc86df2a42bd8b3cf8c898b89839>:0 
+  at (wrapper dynamic-method) SK_WeaponMastery.Core.SK_WeaponMastery.Core.GenerateMasteriesForPawns_Patch0(System.Collections.Generic.List`1<Verse.Pawn>)
+  at SK_WeaponMastery.Core.OnNeutralPawnSpawn (RimWorld.IncidentWorker_NeutralGroup __instance, RimWorld.IncidentParms parms, System.Collections.Generic.List`1[Verse.Pawn]& __result) [0x00001] in <7d23fc86df2a42bd8b3cf8c898b89839>:0 
+  at (wrapper dynamic-method) RimWorld.IncidentWorker_NeutralGroup.RimWorld.IncidentWorker_NeutralGroup.SpawnPawns_Patch1(RimWorld.IncidentWorker_NeutralGroup,RimWorld.IncidentParms)
+  at RimWorld.IncidentWorker_TraderCaravanArrival.TryExecuteWorker (RimWorld.IncidentParms parms) [0x00031] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at (wrapper dynamic-method) RimWorld.IncidentWorker.RimWorld.IncidentWorker.TryExecute_Patch1(RimWorld.IncidentWorker,RimWorld.IncidentParms)
+  at Verse.DebugActionsIncidents+<>c__DisplayClass8_1.<DoIncidentDebugAction>b__2 () [0x00085] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at Verse.Dialog_DebugOptionLister.DebugAction (System.String label, System.Action action, System.Boolean highlight) [0x0003f] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at Verse.Dialog_DebugOptionListLister.DoListingItems () [0x0002b] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at Verse.Dialog_OptionLister.DoWindowContents (UnityEngine.Rect inRect) [0x00176] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at Verse.Window.InnerWindowOnGUI (System.Int32 x) [0x001d3] in <99518a644a3e4a7ea3fde566568df84a>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) Verse.Log:Verse.Log.Error_Patch4 (string)
+Verse.Window:InnerWindowOnGUI (int)
+UnityEngine.GUI:CallWindowDelegate (UnityEngine.GUI/WindowFunction,int,int,UnityEngine.GUISkin,int,single,single,UnityEngine.GUIStyle)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) Verse.Log:Verse.Log.Error_Patch4 (string)
+Verse.Widgets:EnsureMousePositionStackEmpty ()
+(wrapper dynamic-method) Verse.Root:Verse.Root.Update_Patch1 (Verse.Root)
+(wrapper dynamic-method) Verse.Root_Play:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
